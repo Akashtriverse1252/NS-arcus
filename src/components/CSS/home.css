@@ -1,0 +1,1495 @@
+.videobirthday video,
+.amenitiesstn,
+.formcont ul,
+.requestacall,
+.nsgroupstn,
+.aboutnsgroup,
+.locationcont ul li,
+.lg-react-element,
+.lg-react-element a,
+.lg-react-element a img,
+.locationinfo,
+.location,
+.sportzone,
+.sportzonerow,
+.amenitiesrow,
+.amenities,
+.plotstn,
+.plots,
+.heading,
+.securityimg,
+.security,
+.snapshot,
+.toplinks .smenu li,
+.smenu ul,
+.culturestn,
+.nsrelcont span strong,
+.aboutuscont p,
+.nricont,
+.contactrow,
+.clintelbox,
+.react-tabs,
+.plantstab,
+.react-tabs,
+.prodser,
+.nsarcusdetail .nsgroup,
+.nsarcusstn,
+.credentialcont li p,
+.credentialcont,
+.proserv img,
+.proserstn,
+.credentialcont li span img,
+.cultureconts,
+.nsgroup ul,
+.aboutimg img,
+.aboutusinner,
+.logo a,
+.homcolrt,
+.title,
+.aboutus,
+section,
+.slick-slide,
+header,
+section,
+footer,
+.jslider,
+.Concreteimg img,
+.powerplant,
+.news,
+.concert,
+.logo,
+.labelcont,
+.aboutstn,
+.condentialscont ul li span,
+.dreamquotestn,
+.copyright {
+    width: 100%;
+    float: left;
+}
+
+.aboutimg,
+.aboutuscont,
+.aboutuscont h2 {
+    width: 90%;
+    margin-bottom: 25px;
+    float: left;
+}
+
+.powerplant,
+.formcont ul,
+.nsgroupstn,
+.locationinfo,
+.location,
+.sportzone,
+.sportzonerow,
+.amenitiesstn,
+.plotbox ul,
+.plotstn,
+.nsrelcont,
+.newslider,
+.condentialscont ul,
+.concert,
+.count,
+.cultureconts,
+.nsarcusstn,
+.plantbox,
+.center,
+.clintelbox ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.plantbox,
+.clintelbox ul {
+    justify-content: center;
+}
+
+.plantbox,
+.clintelbox ul,
+.plotbox ul {
+    flex-wrap: wrap;
+}
+
+.concert,
+.nsrelcont,
+.powerplant {
+    align-items: end;
+}
+
+.requestacall,
+.aboutnsgroup,
+.location,
+.sportzone,
+.amenities,
+.plots,
+.condentialscont,
+.dreamquotestn,
+.proserstn,
+.plantstab ul.react-tabs__tab-list,
+.security {
+    text-align: center;
+}
+
+.aboutnsgroup,
+.center,
+.locationinfo,
+.location,
+.sportzonerow,
+.amenities,
+.plots,
+.heading,
+.securityimg,
+.security,
+.snapshot,
+.smenu ul li,
+.aboutimg,
+section,
+.title,
+.aboutus,
+.numberbanner,
+.count,
+.App,
+.teambox,
+.nsreality,
+.toplinks li a,
+.toplinks li,
+.proserv .col-md-4.col-xs-12,
+.prodser,
+.number,
+.homemanage,
+.dreamquotestn,
+.contactstrp,
+.homeslider,
+.aboutusinner,
+.Concreteimg,
+.homcolft h2 {
+    position: relative;
+}
+
+.dreamquote,
+.contactstrp,
+section,
+.numberbanner,
+.count,
+.footer,
+.locationinfo {
+    padding: 80px 0;
+}
+
+.togmenu ul li a,
+.toplinks li a,
+.toplinks li span {
+    font-size: 15px;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    padding: 0;
+    letter-spacing: 2.2px;
+    font-weight: 300;
+    text-transform: uppercase;
+    transition: ease all 0.5s;
+    cursor: pointer;
+    line-height: 20px;
+}
+
+.hemburgur span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    border-radius: 1px;
+    background: #000;
+    transition: .5s ease-in-out;
+    float: left;
+    position: absolute;
+}
+
+.homcolrt img {
+    width: 100%;
+    height: 100vh;
+}
+
+.homcolft {
+    display: flex;
+    align-items: end;
+    left: 0;
+    color: #fff;
+    width: 100%;
+    justify-content: center;
+    bottom: 10%;
+}
+
+.homcolft h2 {
+    font-size: 42px;
+    line-height: 44px;
+    letter-spacing: 1px;
+    font-family: 'Gotham';
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 0;
+    display: grid;
+    text-align: center;
+}
+
+/* .homcolft:before {
+    content: '';
+    width: 100%;
+    float: left;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    background: #ed3237;
+    mix-blend-mode: multiply;
+} */
+.webarrow:before {
+    content: '';
+    width: 2px;
+    height: 90px;
+    background: #fff;
+    position: absolute;
+    left: 10%;
+    bottom: 5%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    -webkit-animation-duration: 1.4s;
+    animation-duration: 1.4s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: bounce;
+    animation-name: bounce;
+}
+
+@-webkit-keyframes bounce {
+
+    0%,
+    100% {
+        -webkit-transform: translateY(0)
+    }
+
+    50% {
+        -webkit-transform: translateY(-8px)
+    }
+}
+
+@keyframes bounce {
+
+    0%,
+    100% {
+        transform: translateY(0)
+    }
+
+    50% {
+        transform: translateY(-8px)
+    }
+}
+
+.webarrow {
+    width: 100%;
+    float: left;
+    position: absolute;
+    bottom: 5%;
+    cursor: pointer;
+}
+
+.title:before {
+    content: '';
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    left: -40vw;
+    background: #000;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title h2 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2.2px;
+    color: rgb(0 0 0 / 50%);
+    position: relative;
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+.products .title h3,
+.aboutus .title h3 {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2.2px;
+    color: rgb(0 0 0 / 50%);
+    position: relative;
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+.aboutus .title h3 {
+    color: rgba(255, 255, 255, .5);
+}
+
+.conceretcont h2 {
+    width: 100%;
+    margin-bottom: 15px;
+    display: inline-block;
+    font-size: 53px;
+    line-height: 60px;
+    letter-spacing: 1px;
+}
+
+.aboutus {
+    background: #414042;
+    padding: 50px 0 0 0;
+    height: 85vh;
+}
+
+.aboutconsts p em {
+    font-family: 'Adobe Garamond Pro';
+    font-size: 25px;
+    letter-spacing: 0.6px;
+}
+
+.aboutconsts p {
+    line-height: 36px;
+    color: #fff;
+}
+
+.aboutconsts h1,
+.aboutconsts .btn-4 span {
+    color: #fff;
+}
+
+.slick-dots li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.conceretcont {
+    width: 60%;
+    text-align: left;
+    margin-right: 10%;
+}
+
+.news {
+    margin-top: 100px;
+}
+
+.slick-dots {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+h2 {
+    font-size: 38px;
+    line-height: 46px;
+    margin-bottom: 50px;
+}
+
+.condentialscont ul li p {
+    margin: 0;
+}
+
+.condentialscont ul li {
+    width: 16%;
+    margin: 0 2%;
+    float: left;
+}
+
+img {
+    max-width: 100%;
+}
+
+.productslider {
+    width: 90%;
+    margin: 0px auto;
+}
+
+.homemanage {
+    background-image: url(../../images/couter.jpg);
+}
+
+.homemanage:before,
+.technologybanner::before,
+.ethosbanner::before {
+    content: '';
+    background: rgb(0 0 0 / 75%);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.countnum {
+    font-size: 65px;
+    line-height: 60px;
+    color: #fff;
+    white-space: nowrap;
+    height: 140px;
+    text-align: center;
+}
+
+.labelcont {
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #fff;
+    margin-top: 20px;
+    white-space: break-spaces;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+.App {
+    width: 31%;
+    margin: 0 1% 0px;
+}
+
+.App:before {
+    content: '';
+    width: 1px;
+    height: 80%;
+    background: #838281;
+    position: absolute;
+    top: 10%;
+    right: 0%;
+}
+
+.dreamquotestn:before {
+    content: '';
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-image: url(../../images/quote.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+    left: 50%;
+}
+
+.dreamquotestn h3 {
+    padding-top: 0px;
+    width: 75%;
+    margin: 50px auto;
+}
+
+.quotecont {
+    text-align: left;
+    width: 60%;
+}
+
+.quotecont h4 {
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.quotecont p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.quotecont a.btn-4 {
+    width: 100%;
+    max-width: 100%;
+    background: #e9363b;
+    border-color: #e9363b;
+}
+
+.quotecont a.btn-4 span {
+    font-size: 17px;
+    color: #fff;
+}
+
+.dreamquote {
+    background-image: url(../../images/quotedream.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+
+.dreamquotestn .col-12.row,
+.dreamquotestn {
+    height: 65vh;
+}
+
+.dreamquotestn .col-12.row {
+    align-items: end;
+}
+
+footer {
+    position: relative;
+    z-index: 2;
+}
+
+.footer {
+    background-image: url(../../images/footer.jpg);
+    background-size: cover;
+}
+
+.footer:before {
+    content: '';
+    background: rgb(0 0 0 / 63%);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.contactstrp {
+    width: 90%;
+    float: left;
+    margin: 0 5%;
+}
+
+.contactbox h4 {
+    margin: 25px 0;
+    color: #e53a3e;
+    font-size: 28px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.contactbox p,
+.contactbox p a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    transition: ease all 0.5s;
+}
+
+.contactbox {
+    width: 78%;
+    margin: 0px auto;
+}
+
+.copyright p,
+.copyright p a {
+    margin: 20px 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 14px;
+    color: #6c6c6c;
+    text-decoration: none;
+    position: relative;
+}
+
+.copyright {
+    background: #000;
+}
+
+.aboutcont .title h2,
+.footer .title h2 {
+    color: rgb(255 255 255 / 50%);
+}
+
+.aboutcont .title:before {
+    left: -20VW;
+    background: #FFF;
+}
+
+.footer .title:before {
+    background: #FFF;
+}
+
+.productslider .Concreteimg,
+.prodetails {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.fixed {
+    -webkit-animation: smoothScroll 1s forwards;
+    animation: smoothScroll 1s forwards;
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+
+.fixed .menus {
+    padding: 15px 0;
+}
+
+.header.fixed {
+    box-shadow: 0 3px 3px rgb(0 0 0 / 12%);
+    width: 100%;
+    z-index: 3;
+    background: #fff;
+}
+
+@keyframes smoothScroll {
+    0% {
+        transform: translateY(-40px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+.fixed .submenu,
+.fixed .menus.active .menuslide {
+    top: 100%;
+}
+
+.fixed .logo a img {
+    width: 220px;
+}
+
+.logo a img {
+    width: 240px;
+    transition: ease all 0.5s;
+}
+.fixed .logo {
+    padding: 15px 0;
+}
+
+/* About us */
+
+.banner .homcolrt img {
+    height: auto;
+}
+
+.aboutimg:before {
+    content: '';
+    width: 60%;
+    height: 65vh;
+    background: #414042;
+    position: absolute;
+    left: 0;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    z-index: -1;
+}
+
+.aboutusinner:nth-child(even) .aboutimg:before {
+    left: inherit;
+    right: -60%;
+}
+
+.nsarcusdetail .aboutusinner:nth-child(even) .aboutimg:before {
+    right: inherit;
+    left: 0;
+}
+
+.nsarcusdetail .aboutimg:before {
+    right: -80%;
+    left: inherit;
+    width: 80%;
+}
+
+.realty .aboutimg:before {
+    height: 65vh;
+}
+
+.nsgroup {
+    width: 80%;
+    float: right;
+    position: relative;
+}
+
+.nsgroup .title:before {
+    left: -17vw;
+}
+
+.nsgroup ul li {
+    margin: 10px 0;
+    padding: 10px 0;
+    position: relative;
+}
+
+.nsgroup ul li:before {
+    content: '';
+    width: 30px;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #e9363b;
+}
+
+.nsgroup ul li:last-child:before {
+    background: #fff;
+}
+
+.cultureconts {
+    margin-top: 50px;
+}
+
+.culturebox img {
+    margin-bottom: 25px;
+}
+
+.culturebox {
+    width: 30%;
+}
+
+.teambox {
+    border: solid 1px #a7a7a7;
+    width: 90%;
+    padding: 20px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.teambox h3 {
+    font-size: 25px;
+    color: #f94148;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+}
+
+.teambox p {
+    font-weight: 300;
+    margin: 0;
+    transition: ease all 0.5s;
+    font-size: 17px;
+    line-height: 28px;
+}
+
+.credentialcont li {
+    width: 34%;
+    float: left;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 8%;
+}
+
+.credentialcont li span {
+    float: left;
+    width: 50%;
+}
+
+.credentialcont li p {
+    margin: 0;
+}
+
+#whyarcus .aboutusinner:before {
+    height: 78vh;
+}
+
+#whyarcus .aboutusinner {
+    margin-bottom: 100px;
+}
+
+ul.react-tabs__tab-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+ul.react-tabs__tab-list li {
+    border: solid 1px #ed3237;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 18%;
+    cursor: pointer;
+    transition: ease all 0.5s;
+    margin: 0 0.5%;
+}
+
+ul.react-tabs__tab-list li.react-tabs__tab--selected {
+    background: #ed3237;
+    color: #fff;
+}
+
+.prodser {
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+ul.react-tabs__tab-list li:hover {
+    background: #ed3237;
+    color: #fff;
+}
+
+.productslider .Concreteimg,
+.nsarcusdetail .aboutusinner:nth-child(even) .aboutimg {
+    float: left;
+}
+
+.prolayer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(0 0 0 / 50%);
+    z-index: 1;
+    width: 100%;
+    height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    opacity: 0;
+    transition: ease all 0.5s;
+}
+
+.prolayer h4 {
+    font-size: 26px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+
+.productslider .Concreteimg:hover .prolayer,
+.prodser:hover .prolayer {
+    height: 100%;
+    opacity: 1;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+.prolayer h4 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nsarcusbox {
+    width: 50%;
+}
+
+.nsarcusbox h2 {
+    margin-bottom: 15px;
+}
+
+.nsarcusbox h1 {
+    color: #ee3237;
+    font-size: 66px;
+    line-height: 70px;
+}
+
+.nsarcusdetail .aboutusinner:nth-child(odd) .row.col-12 .aboutimg {
+    float: right;
+}
+
+.nsarcusdetail .aboutusinner:nth-child(odd) .row.col-12 {
+    flex-direction: row-reverse;
+}
+
+.nsarcusdetail .aboutusinner:nth-child(even) .row.col-12 {
+    flex-direction: inherit;
+}
+
+.nsarcusdetail .aboutusinner {
+    height: 70vh;
+    align-items: center;
+    display: flex;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.nsarcusdetail .nsgroup ul li:before {
+    top: 25px;
+    left: -6%;
+    background: #e9363b;
+    width: 30px;
+    height: 2px;
+}
+
+.aboutusinner {
+    margin-bottom: 100px;
+}
+
+.aboutusinner .aboutimg {
+    margin: 0;
+}
+
+.prodetails {
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+.prodetails h2 {
+    margin-bottom: 10px;
+}
+
+.proserv .col-md-6.col-xs-12 {
+    display: flex;
+    align-items: end;
+}
+
+.adrssblk {
+    background: #264c73;
+    width: 31%;
+    padding: 40px;
+    height: 250px;
+    margin: 0.5%;
+}
+
+.adrssblk h4 {
+    color: #fff;
+    font-size: 21px;
+    line-height: 30px;
+    margin: 0;
+}
+
+.adrssblk p {
+    color: #fff;
+    margin: 0;
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.adrssblk p strong {
+    font-weight: normal;
+    width: 30%;
+    float: left;
+}
+
+.adrssblk p a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.adrssblk p:nth-child(2) {
+    margin-bottom: 20px;
+    font-size: 15px;
+    line-height: 20px;
+    color: #bfddff;
+    margin-top: 5px;
+}
+
+.plantstab ul.react-tabs__tab-list li {
+    width: auto;
+    padding: 0 35px;
+    white-space: nowrap;
+}
+
+.adrssblk:nth-child(even) {
+    background: #939598;
+}
+
+.adrssblk:nth-child(even) p {
+    color: #fff;
+}
+
+.clintelbox ul li {
+    width: 26%;
+    margin: 0 1% 2%;
+}
+
+.clintelbox ul li img {
+    width: 100%;
+}
+
+.clintelbox ul {
+    width: 50%;
+}
+
+.clintelbox ul li {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #ededed;
+}
+
+.clintelbox ul li img {
+    width: 100%;
+}
+
+.clintelbox ul li p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.clintelbox ul li span {
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+}
+
+.clintelbox ul li:last-child {
+    border: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.currentopening {
+    width: 60%;
+    margin: 0px auto;
+}
+
+.careerbox p {
+    text-align: center;
+}
+
+#career {
+    background: #f7f7f7;
+    padding-bottom: 0;
+}
+
+.contactfooter .footer {
+    background: #fff;
+}
+
+.contactfooter .footer::before {
+    opacity: 0;
+    display: none;
+}
+
+.contactfooter .footer h2 {
+    color: #000;
+}
+
+.contactfooter .footer .title:before {
+    background: #000;
+    content: '';
+}
+
+.contactfooter .contactbox p,
+.contactfooter .contactbox p a {
+    color: #000;
+}
+
+.contactfooter img {
+    display: none;
+}
+
+.contactfooter .copyright {
+    display: none;
+}
+
+.contactfooter .footer {
+    padding-bottom: 0;
+}
+
+.contactform {
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.contactform ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.contactform ul li {
+    width: 31%;
+    margin: 20px 1%;
+}
+
+.contactform ul li:last-child {
+    width: 100%;
+}
+
+.contactform ul li input {
+    width: 100%;
+    float: left;
+    height: 60px;
+    letter-spacing: 0.5px;
+    text-indent: 20px;
+    border: solid 1px #ededed;
+}
+
+.contactrow {
+    padding-bottom: 50px;
+}
+
+.btn-4 input[type="submit"] {
+    background: transparent;
+    border: none;
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.contactform span.btn10 input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    padding: 0;
+    float: left;
+    font-size: 17px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+
+.contactform span.btn10 {
+    background: #ed3237 !important;
+    border-color: #ed3237;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 25px;
+}
+
+.nricont {
+    padding: 15px;
+}
+
+.aboutusinner.realty {
+    margin-bottom: 0;
+}
+
+.nscontainer {
+    width: 65%;
+    margin: 0px auto;
+}
+
+.nscontainer .slick-slider button.slick-arrow.slick-next {
+    right: -10%;
+}
+
+.nscontainer .slick-slider button.slick-arrow.slick-prev {
+    left: -10%;
+}
+
+.nsrelcont {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    right: 0;
+    left: 0;
+    color: #fff;
+    padding: 0 25px;
+    padding-bottom: 20px;
+}
+
+.nsrelcont span {
+    font-size: 23px;
+    line-height: 26px;
+}
+
+.nsrelcont span p {
+    margin: 0;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.aboutusinner.realty h2 {
+    width: 100%;
+}
+
+.conceretcont p {
+    width: 75%;
+    font-family: 'Adobe Garamond Pro';
+    font-style: italic;
+    font-size: 21px;
+    line-height: 30px;
+}
+
+.gallery {
+    width: 90%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.gallery .slick-list {
+    width: 70%;
+    margin: 0px auto;
+    overflow: visible;
+}
+
+.gallery .homeslider:before {
+    background: rgba(0, 0, 0, .5);
+    bottom: 0;
+    content: "";
+    height: 100%;
+    left: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: all 1s ease;
+    width: 100%;
+}
+
+.gallery .slick-slide.slick-active.slick-current .homeslider:before {
+    background: transparent;
+}
+
+.gallery .homeslider img {
+    border-left: 10px solid #fff;
+}
+
+.quotecont a.btn-4:hover {
+    background: #264c73;
+    border-color: #264c73;
+}
+
+.contactbox p a:hover,
+.copyright p a:hover {
+    color: #e53a3e;
+}
+
+.teambox:before {
+    content: '';
+    background: #264c73;
+    width: 100%;
+    float: left;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    transition: ease all 0.5s;
+}
+
+.teambox:hover:before {
+    height: 100%;
+}
+
+.teambox:hover p {
+    color: #fff;
+}
+
+.quotecont a {
+    text-align: center;
+    text-decoration: none;
+    line-height: 45px;
+}
+
+.aboutusinner:first-child .title {
+    margin-bottom: 80px;
+}
+
+header.niketan .menus .toplinks li a:hover {
+    color: #b1852b;
+}
+
+.videobirthday {
+    width: 100%;
+    float: left;
+    position: fixed;
+    bottom: 0;
+    z-index: 9;
+    background: #fff;
+}
+
+.newsliderh,
+.newslidecont {
+    width: 49%;
+}
+
+.newslidecont {
+    margin-bottom: 25px;
+}
+
+.newslider:last-child .newslidecont p {
+    width: 100%;
+}
+
+#birthday {
+    position: fixed;
+    bottom: 0;
+    z-index: 3;
+    right: 0;
+    display: flex;
+    justify-content: flex-end;
+    width: auto;
+    text-align: center;
+    padding: 0;
+    overflow: visible;
+    transition: ease all 2s;
+}
+
+#birthday.slideEffect.active {
+    right: -100vw;
+}
+
+.birthday {
+    background: #153862;
+    padding: 20px;
+    position: relative;
+}
+
+.birthday:before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    bottom: 20px;
+    right: 20px;
+    border: solid 2px #864057;
+}
+
+.balloon {
+    position: absolute;
+    top: -43%;
+    right: 0;
+}
+
+.birthdaybox {
+    width: 530px;
+    padding: 50px;
+    background-image: url(../../images/birthday-bg.png);
+    background-position: center;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100%;
+}
+
+.cake {
+    position: absolute;
+    bottom: 13%;
+    left: 15%;
+    width: 90px;
+}
+
+/* .birthdaytitle {
+    background: #fff;
+    padding: 50px;
+    width: 85%;
+    border-radius: 50px;
+    position: relative;
+} */
+
+.birthdaycontent {
+    background: #FFF;
+    padding: 40px;
+    width: 90%;
+    border-radius: 50px;
+    position: relative;
+}
+
+
+.birthdaytitle p {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-style: italic;
+}
+
+.birthdaytitle h4 {
+    display: grid;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    line-height: 22px;
+    margin: 0;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.birthdaytitle span {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.birthdaybox:before {
+    content: '';
+    font-size: 200px;
+    line-height: 0px;
+    font-family: fantasy;
+    position: absolute;
+    top: 33%;
+    right: 20%;
+    z-index: 2;
+    color: #ed3237;
+    background: url(../../images/red_quotes.png);
+}
+
+.birthdaycontent:after {
+    content: '▼';
+    position: absolute;
+    bottom: -14%;
+    font-size: 60px;
+    line-height: 60px;
+    color: #fff;
+}
+
+.cross {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #864057;
+    color: #c9c7c7;
+    cursor: pointer;
+}
+.center{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+.google-loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+  
+  .google-loader .dot {
+      width: 10px;
+      height: 10px;
+      margin: 0 3px;
+      background-color: #224d75;
+      border-radius: 50%;
+      display: inline-block;
+      animation: bounce 0.6s infinite;
+    }
+    .google-loader .dot:nth-child(4),
+    .google-loader .dot:nth-child(2) {
+        background-color: #ed3237;
+
+    }
+    
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+  
+  .google-loader .dot:nth-child(2) {
+    animation-delay: -0.15s;
+  }
+  
+  .google-loader .dot:nth-child(3) {
+    animation-delay: -0.3s;
+  }
+  
+  .google-loader .dot:nth-child(4) {
+    animation-delay: -0.45s;
+  }
+  
+  .product_IMAGE{
+    width: 50%;
+  }

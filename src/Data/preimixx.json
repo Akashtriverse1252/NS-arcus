@@ -1,0 +1,178 @@
+{
+  "products": [
+    {
+      "name": "PREMIXX 30",
+      "type": "Ready to use",
+      "image": "http://nsarcus.triverseadvertising.com/static/media/premixx30.e1f10a7fdf5b0715d57f.webp",
+      "description": "NS Arcus introduces PREMIXX 30, a dry mix concrete tailored to provide high strength (min. 30Mpa) ready to use for structural strengthening. It is fast and easy to use. The three ready-to-pour steps are: Open, add water and pour.",
+      "tabs": ["Introduction", "Instructions", "Where to Use", "Shelf Life"],
+      "introduction": "NS Premixx 30, is a high-strength dry mix concrete used for strengthening columns and beams of load-bearing structures. It is a product that works well in outlying areas, residences, gardens, and other locations where high-quality concrete is needed.",
+      "features": [
+        {
+          "title": "Easy to mix and apply",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon1.68416d6a709f4e9438e1.webp"
+        },
+        {
+          "title": "High-quality material used",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon2.7d1e1b51bd1776510bd5.webp"
+        },
+        {
+          "title": "Saves time",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon3.7f128d9865c5c00d2229.webp"
+        },
+        {
+          "title": "Consistent quality and strength",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon4.e0f760c6e980047786b5.webp"
+        },
+        {
+          "title": "Packed in specially designed laminated bags",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon5.f6958f6d8da2f9be6c93.webp"
+        },
+        {
+          "title": "Various combinations available",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon6.0e9b7cdddd40152e185e.webp"
+        }
+      ],
+      "uses": {
+        "title": "USES",
+        "description": "NS Premixx 30, is a high-strength dry mix concrete used for strengthening columns and beams of load-bearing structures. It is a product that works well in outlying areas, residences, gardens, and other locations where high-quality concrete is needed.",
+        "featureGroups": [
+          {
+            "id": "advantages",
+            "title": "Advantages",
+            "features": [
+              "Concrete produced in controlled fully automated units.",
+              "Extremely easy to mix and use.",
+              "Produced from high-quality material.",
+              "Perfect quality and strength as per requirement.",
+              "Packed in specially designed laminated bags to maintain strength.",
+              "Available in various combinations as per requirement.",
+              "24*7 technical support."
+            ]
+          },
+          {
+            "id": "instructions",
+            "title": "Instructions",
+            "features": [
+              "Empty the PREMIXX M-30 bag into a wheelbarrow, bucket or flat clean surface.",
+              "Measure (3.5-4.5) liter of water.",
+              "Add the water in the dry mix concrete. Add more water gradually, if required.",
+              "Mix thoroughly with a spade till desired consistency is attained."
+            ]
+          },
+          {
+            "id": "where_to_use",
+            "title": "Where to Use",
+            "features": [
+              "Slabs and floors of the house.",
+              "Places where waterproofing is required.",
+              "Flooring and leveling works.",
+              "Repair and maintenance of concrete structures.",
+              "Gardens, pavements, landscaping and related works.",
+              "Roads driveways."
+            ]
+          },
+          {
+            "id": "shelf_life",
+            "title": "Shelf Life",
+            "features": ["90 days from the date of manufacturing."]
+          }
+        ]
+      }
+    },
+    {
+      "name": "PREMIXX 40",
+      "type": "Ready to use",
+      "image": "http://nsarcus.triverseadvertising.com/static/media/premixx40.00074332a38819d2229b.webp",
+      "description": "NS Arcus introduces PREMIXX 40 micro, a premixed high strength ready to use concrete for structural strengthening. It is fast and easy to use. The three ready-to-pour steps are: Open, add water and pour.",
+      "tabs": [
+        "Introduction",
+        "Instructions",
+        "Where to Use",
+        "Advantages",
+        "Safety Instructions",
+        "Hand Mixing",
+        "Shelf Life"
+      ],
+      "introduction": "NS Premixx 40, is a high-strength dry mix concrete used for strengthening columns and beams of load-bearing structures. It is a product that works well in outlying areas, residences, gardens, and other locations where high-quality concrete is needed.",
+      "features": [
+        {
+          "title": "Easy to mix and apply",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon1.68416d6a709f4e9438e1.webp"
+        },
+        {
+          "title": "Zero wastage",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon2.7d1e1b51bd1776510bd5.webp"
+        },
+        {
+          "title": "Saves time",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon3.7f128d9865c5c00d2229.webp"
+        },
+        {
+          "title": "Consistent quality",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon4.e0f760c6e980047786b5.webp"
+        },
+        {
+          "title": "Ideal for small constructions",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon5.f6958f6d8da2f9be6c93.webp"
+        },
+        {
+          "title": "No multiple raw materials required",
+          "icon": "http://nsarcus.triverseadvertising.com/static/media/premixx_icon6.0e9b7cdddd40152e185e.webp"
+        }
+      ],
+      "uses": {
+        "title": "USES",
+        "description": "NS Premixx 40, is a high-strength dry mix concrete used for strengthening columns and beams of load-bearing structures. It is a product that works well in outlying areas, residences, gardens, and other locations where high-quality concrete is needed.",
+        "featureGroups": [
+          {
+            "id": "advantages",
+            "title": "Advantages",
+            "features": [
+              "Very high strength materials – appreciable boost in strength and load-carrying capacity without a significant increase in dead load.",
+              "The expansion system compensates for shrinkage settlement in the plastic stage.",
+              "Good Bond with old concrete.",
+              "No added chloride.",
+              "24*7 technical support."
+            ]
+          },
+          {
+            "id": "instructions",
+            "title": "Instructions",
+            "features": [
+              "Empty the PREMIXX 40 bag into the mixer.",
+              "Measure 2-3 liters of water.",
+              "Add the water in the mix. Add more water gradually, if required.",
+              "Mix thoroughly with a spade till desired consistency is attained."
+            ]
+          },
+          {
+            "id": "safety_instructions",
+            "title": "Safety Instructions",
+            "features": [
+              "Premixx contains cement which can cause irritation and respiratory disorder",
+              "Avoid contact with eyes.",
+              "Do not use it without proper PPE.",
+              "Keep out of the reach of children."
+            ]
+          },
+          {
+            "id": "hand_mixing",
+            "title": "Hand Mixing",
+            "features": [
+              "Empty Premixx40 Micro into a wheelbarrow bucket or a flat, clean surface.",
+              "Measure 2-3 liters of water per bag.",
+              "Gradually add water in stages, mixing thoroughly with a spade or something similar, after each addition of water.",
+              "Check on the consistency of the concrete. Use no more water than is necessary to allow the concrete to be easily placed and finished."
+            ]
+          },
+          {
+            "id": "shelf_life",
+            "title": "Shelf Life",
+            "features": ["90 days from the date of manufacturing."]
+          }
+        ]
+      }
+    }
+  ]
+}

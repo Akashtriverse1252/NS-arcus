@@ -1,0 +1,3963 @@
+@media (max-width: 1770px) {
+  .react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
+    font-size: 28px;
+  }
+
+  .premix_intro_data p {
+    font-size: 23px;
+  }
+
+  .aboutsrealestates .realtitle h3:last-child {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .aboutsrealestates .realtitle h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 21px;
+  }
+
+  .conceretcont h2 {
+    font-size: 46px;
+    line-height: 50px;
+  }
+
+  .toplinks li {
+    padding: 0 10px;
+  }
+
+  .logo a img {
+    width: 250px;
+  }
+
+  .logo a img {
+    width: 220px;
+  }
+
+  .enquirebtn {
+    right: 18px;
+  }
+
+  .enquirebtn_1 {
+    right: -2px;
+  }
+
+  .title h2 {
+    font-size: 21px;
+  }
+
+  h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  body,
+  .aboutconsts p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .submenuchild {
+    width: 50%;
+  }
+
+  .aboutconsts p em {
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 46px;
+    line-height: 50px;
+  }
+
+  .conceretcont p {
+    width: 85%;
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .productslider .slick-slider button.slick-arrow.slick-prev,
+  .productslider .slick-slider button.slick-arrow.slick-next {
+    width: 45px;
+    height: 45px;
+  }
+
+  .dreamquotestn h3 {
+    margin: 25px 0;
+  }
+
+  .quotecont h4 {
+    font-size: 21px;
+  }
+
+  .quotecont p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .contactbox h4 {
+    margin: 15px 0;
+    font-size: 24px;
+  }
+
+  .copyright p,
+  .copyright p a {
+    font-size: 13px;
+  }
+
+  h2 {
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .nsgroup ul li {
+    margin: 8px 0;
+    padding: 8px 0;
+  }
+
+  .credentialcont li {
+    margin: 15px 8%;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    font-size: 14px;
+  }
+
+  .toplinks li a.active:before {
+    height: 1px;
+  }
+
+  .homcolft h2 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  ul.react-tabs__tab-list li {
+    font-size: 13px;
+  }
+
+  ul.react-tabs__tab-list {
+    margin-bottom: 35px;
+  }
+
+  .nsrelcont span {
+    font-size: 19px;
+    line-height: 24px;
+  }
+
+  .nsrelcont span p {
+    font-size: 16px;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 54px;
+    line-height: 60px;
+  }
+
+  .nsarcusdetail .nsgroup ul li:before {
+    top: 22px;
+  }
+
+  .adrssblk p {
+    font-size: 15px;
+  }
+
+  .adrssblk {
+    padding: 30px;
+  }
+
+  .adrssblk p:nth-child(2) {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .plantstab ul.react-tabs__tab-list li {
+    padding: 0 40px;
+  }
+
+  .contactform ul li {
+    margin: 10px 0.5%;
+  }
+
+  .contactform ul li input {
+    height: 50px;
+    font-size: 16px;
+  }
+
+  .dreamquote,
+  .contactstrp,
+  section,
+  .numberbanner,
+  .count,
+  .footer,
+  .locationinfo {
+    padding: 60px 0;
+  }
+
+  .condentialscont ul li {
+    width: 17%;
+    margin: 0 1%;
+  }
+
+  .condentialscont ul li span img {
+    width: 80%;
+  }
+
+  .cultureconts {
+    margin-top: 35px;
+  }
+
+  .teambox {
+    padding: 10px;
+  }
+
+  .teambox p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .bannercont h1 {
+    font-size: 44px;
+    line-height: 50px;
+  }
+
+  .realtitle h3 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .realtitle h4 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .realtitle h4:before {
+    width: 100px;
+    height: 3px;
+  }
+
+  .realtitle {
+    margin-bottom: 40px;
+  }
+
+  .realestates p {
+    font-size: 22px;
+    line-height: 36px;
+    margin: 0;
+  }
+
+  .snapshotbox h4 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+
+  .snapshotbox p {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .snapshotbox {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+  }
+
+  .plotbox ul li p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .heading h2 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .heading:before,
+  .bannercont:before {
+    top: -50px;
+  }
+
+  #sportzone::after {
+    width: 400px;
+    height: 300px;
+    background-size: cover;
+  }
+
+  .amenities:before,
+  #aboutsrealestates::before {
+    width: 700px;
+    height: 200px;
+  }
+
+  .amenities:before {
+    background-size: cover;
+  }
+
+  .aboutnsgroup .heading img {
+    width: 30%;
+  }
+
+  .nsgroupcont p {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 1600px) {
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 19px;
+  }
+
+  .conceretcont h2 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  .enquirebtn_1 {
+    top: 42%;
+  }
+
+  .dreamquotestn h3 {
+    font-size: 42px;
+    line-height: 50px;
+  }
+
+  .menus .toplinks li a.btn-3 span {
+    padding: 3px 10px;
+  }
+
+  .labelcont {
+    font-size: 21px;
+    line-height: 28px;
+  }
+
+  .countnum {
+    font-size: 56px;
+    line-height: 60px;
+  }
+
+  .condentialscont ul li span img {
+    width: 65%;
+  }
+
+  h3 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  .aboutusinner {
+    margin-bottom: 70px;
+  }
+
+  .culturebox img {
+    width: 80%;
+  }
+
+  .title h2 {
+    font-size: 19px;
+    letter-spacing: 1.5px;
+    line-height: 26px;
+  }
+
+  .nsarcusbox h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .nsgroup ul li {
+    margin: 5px 0;
+    padding: 5px 0;
+  }
+
+  body,
+  .aboutconsts p {
+    font-size: 17px;
+    line-height: 28px;
+  }
+
+  .nsarcusdetail .nsgroup ul li:before {
+    top: 18px;
+    width: 25px;
+  }
+
+  .realestates p {
+    font-size: 19px;
+    line-height: 28px;
+  }
+
+  .snapshotbox h4 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .snapshotbox p {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  h2,
+  .heading h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .plotbox ul li p {
+    font-size: 17px;
+    line-height: 28px;
+  }
+
+  .heading:before,
+  .bannercont:before {
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+  }
+
+  .sportzonecont ul li:before,
+  .securitydiv ul li:before,
+  .amenitiescontent ul li:before {
+    width: 25px;
+  }
+
+  .locationcont ul li p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .aboutnsgroup .heading img {
+    max-width: 240px;
+  }
+
+  .nsgroupimg img {
+    width: 95%;
+  }
+
+  .balloon {
+    width: 150px;
+    top: -34%;
+  }
+
+  .birthdaybox:before {
+    font-size: 230px;
+  }
+
+  .birthdaybox {
+    width: 500px;
+  }
+
+  .cake {
+    width: 80px;
+  }
+
+  .cake img,
+  .birthdaycontent {
+    width: 100%;
+  }
+
+  .birthdaycontent p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .birthdaycontent h4 {
+    font-size: 16px;
+  }
+
+  .birthdaycontent span {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 1440px) {
+  .contact_mobile_form {
+    padding: 4rem 2rem;
+    width: 300px;
+  }
+
+  .tab_cnt::after,
+  .premixx_banner_section::after,
+  .premixx_banner_section::before {
+    width: 140px;
+    background-size: contain;
+    height: 30px;
+  }
+
+  .premixx_features_list::before {
+    left: -8%;
+  }
+
+  .premixx_introductoin::after {
+    right: -8%;
+  }
+
+  .premixx_banner_section div h1 {
+    font-size: 2.3rem;
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] li {
+    padding: 12px 0;
+  }
+
+  .premix_intro_data p {
+    font-size: 20px;
+  }
+
+  .premixx_feature {
+    height: 180px;
+    width: 180px;
+    padding: 15px;
+  }
+
+  .premix_intro_rgt ul {
+    justify-content: space-between;
+  }
+
+  .premix_intro_data ul {
+    row-gap: 20px;
+  }
+
+  .premixx_features p {
+    width: 75%;
+  }
+
+  .premixx_tab_list {
+    margin: 35px 0;
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
+    font-size: 23px;
+    height: 65px;
+  }
+
+  .conceretcont h2 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 18px;
+  }
+
+  .toplinks li {
+    padding: 0 5px;
+  }
+
+  .toplinks li {
+    margin: 0px 10px;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    width: 100%;
+    font-size: 13px;
+  }
+
+  .homcolft h2 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .nsgroup ul li:before {
+    width: 25px;
+  }
+
+  .title h2 {
+    font-size: 18px;
+  }
+
+  .culturebox img {
+    width: 70%;
+  }
+
+  .culturebox {
+    width: 32%;
+  }
+
+  .credentialcont li {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  ul.react-tabs__tab-list li {
+    font-size: 11px;
+  }
+
+  .prolayer h4 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 44px;
+    line-height: 50px;
+  }
+
+  .nsarcusdetail .nsgroup ul li:before {
+    left: -8%;
+    top: 20px;
+  }
+
+  .nsrelcont span {
+    font-size: 17px;
+    line-height: 22px;
+  }
+
+  .nsrelcont span p {
+    font-size: 14px;
+  }
+
+  .adrssblk {
+    padding: 20px;
+    height: 200px;
+  }
+
+  .adrssblk p {
+    font-size: 13px;
+  }
+
+  .adrssblk p:nth-child(2) {
+    font-size: 12px;
+    letter-spacing: 0.3px;
+  }
+
+  .accordion .accordion-item .title {
+    font-size: 15px;
+    line-height: 30px;
+  }
+
+  .accordion .accordion-item .title:after {
+    font-size: 30px;
+  }
+
+  h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .dreamquote,
+  .contactstrp,
+  section,
+  .numberbanner,
+  .count,
+  .footer,
+  .amenities {
+    padding: 50px 0;
+  }
+
+  h2 {
+    margin-bottom: 25px;
+  }
+
+  .condentialscont ul li span img {
+    width: 80%;
+  }
+
+  .condentialscont ul li {
+    width: 18%;
+    margin: 0;
+  }
+
+  .quotecont {
+    width: 70%;
+  }
+
+  h3 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .contactform ul li input {
+    font-size: 14px;
+  }
+
+  .logo a img {
+    width: 200px;
+  }
+
+  .contactbox {
+    width: 90%;
+  }
+
+  h1 {
+    font-size: 29px;
+    line-height: 36px;
+  }
+}
+
+@media (max-width: 1380px) {
+  #premixx_banner_section {
+    margin-top: 4.4rem;
+  }
+
+  .premix_intro_data ul {
+    row-gap: 40px;
+  }
+
+  .premix_intro_rgt {
+    width: 65%;
+    padding: 0;
+    padding-left: 5%;
+  }
+
+  .premixx_feature {
+    height: 160px;
+    width: 160px;
+  }
+
+  .premixx_tab_list__content p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    text-wrap: inherit;
+    margin-bottom: 10px;
+    width: 100% !important;
+  }
+
+  .snapshot .realtitle h3,
+  .plots .realtitle h3,
+  .amenities .realtitle h3,
+  .location .realtitle h3 {
+    font-size: 14px;
+  }
+
+  .aboutsrealestates .realtitle h1 {
+    font-size: 27px;
+    letter-spacing: 1px;
+    line-height: 36px;
+  }
+
+  .aboutsrealestates .realtitle h3 {
+    font-size: 14px;
+  }
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 16px;
+    letter-spacing: 1.5px;
+  }
+
+  .conceretcont h2 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    font-size: 12px;
+  }
+
+  .logo a img {
+    width: 180px;
+  }
+
+  .enquirebtn_1 {
+    top: 38%;
+  }
+
+  .quotecont a.btn-4 {
+    width: 80%;
+    line-height: 36px;
+    height: auto;
+  }
+
+  .bannercont h1 {
+    font-size: 36px;
+    line-height: 42px;
+  }
+
+  .quotecont a.btn-4 span {
+    font-size: 15px;
+  }
+
+  .realtitle h3,
+  h2,
+  .heading h2 {
+    font-size: 27px;
+    line-height: 36px;
+    letter-spacing: 1px;
+  }
+
+  .realestates {
+    width: 70%;
+  }
+
+  .snapshotbox {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+  }
+
+  .snapshotbox p {
+    font-size: 19px;
+    line-height: 25px;
+  }
+
+  .snapshotbox h4 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  .plotbox ul li p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .locationcont ul li span {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .locationcont ul li p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .nsgroupcont p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .toplinks li:nth-child(8n-1) a {
+    padding: 5px 0;
+  }
+
+  .teambox p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .amenities:before,
+  #aboutsrealestates::before {
+    width: 500px;
+  }
+
+  .sportzonecont ul li:before,
+  .securitydiv ul li:before,
+  .amenitiescontent ul li:before {
+    width: 20px;
+    height: 1px;
+  }
+
+  .togmenu {
+    height: 32px;
+  }
+
+  .menuslide {
+    height: 35px;
+  }
+
+  .menuslide .togmenu ul li a {
+    padding: 0 20px;
+  }
+
+  body,
+  .aboutconsts p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .toplinks li {
+    margin: 0 8px;
+  }
+
+  .aboutcont {
+    width: 54%;
+  }
+
+  .aboutslider {
+    width: 42%;
+  }
+
+  .aboutcont .title:before {
+    left: -22vw;
+  }
+
+  .news {
+    margin-top: 50px;
+  }
+
+  .dreamquotestn h3 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  .homcolft h2 {
+    font-size: 26px;
+    line-height: 28px;
+  }
+
+  h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  body {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .aboutconsts p {
+    line-height: 26px;
+  }
+
+  .aboutconsts p em {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .btn10 {
+    font-size: 11px;
+    padding: 5px 20px;
+  }
+
+  .aboutslider img {
+    width: 100%;
+  }
+
+  #news {
+    padding-top: 100px;
+  }
+
+  h3 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+
+  .condentialscont ul li span img {
+    width: 60%;
+  }
+
+  .slick-dots {
+    margin-top: 10px;
+  }
+
+  .slick-dots li button {
+    width: 7px;
+    height: 7px;
+  }
+
+  .title h2 {
+    font-size: 16px;
+    letter-spacing: 1.5px;
+  }
+
+  .productslider .slick-slider button.slick-arrow.slick-prev,
+  .productslider .slick-slider button.slick-arrow.slick-next {
+    width: 35px;
+    height: 35px;
+  }
+
+  .countnum {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .labelcont {
+    font-size: 19px;
+    line-height: 30px;
+    margin-top: 10px;
+  }
+
+  .quotecont p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .quotecont h4 {
+    font-size: 19px;
+    line-height: 20px;
+  }
+
+  .contactbox h4 {
+    margin: 10px 0;
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .contactbox img {
+    width: 45px;
+  }
+
+  .copyright p,
+  .copyright p a {
+    font-size: 11px;
+    line-height: 12px;
+  }
+
+  .aboutusinner {
+    margin-bottom: 100px;
+  }
+
+  .culturebox img {
+    width: 60%;
+  }
+
+  .teambox h3 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+
+  .prolayer h4 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 40px;
+    line-height: 46px;
+  }
+
+  .nsarcusdetail .nsgroup ul li:before {
+    top: 16px;
+    height: 1px;
+  }
+
+  .nsarcusdetail .nsgroup ul li:last-child:before {
+    opacity: 0;
+  }
+
+  .aboutusinner.realty h2 {
+    width: 80%;
+  }
+
+  .nsrelcont span {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .nsrelcont span p {
+    font-size: 13px;
+  }
+
+  .adrssblk h4 {
+    font-size: 17px;
+  }
+
+  .adrssblk p:nth-child(2) {
+    margin-top: 0;
+    font-size: 11px;
+    line-height: 16px;
+    width: 90%;
+  }
+
+  .adrssblk p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .accordion .accordion-item .title {
+    font-size: 13px;
+    line-height: 20px;
+  }
+
+  .accordion-item {
+    margin-bottom: 5px;
+  }
+
+  .accordion .accordion-item .title:after {
+    font-size: 24px;
+  }
+
+  .careerbox p {
+    width: 80%;
+  }
+
+  h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .contactform span.btn10 {
+    padding: 2px 15px;
+  }
+
+  .contactform span.btn10 input[type="submit"] {
+    line-height: 30px;
+    font-size: 13px;
+  }
+
+  .submenu {
+    top: 14.5vh;
+  }
+
+  .submenuchild {
+    padding: 25px 0;
+  }
+
+  .toplinks .smenu li {
+    padding: 6px 0;
+  }
+
+  .toplinks .smenu li:after {
+    width: 22px;
+  }
+
+  .teambox p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .contactform ul li input {
+    height: 40px;
+    text-indent: 10px;
+    font-size: 13px;
+    line-height: 40px;
+  }
+
+  .realtitle h2 {
+    font-size: 14px;
+  }
+
+  .birthdaybox {
+    padding: 40px;
+    width: 400px;
+    height: 35vh;
+  }
+
+  .birthdaycontent {
+    padding: 40px 25px;
+  }
+
+  .birthdaycontent p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .birthdaycontent h4 {
+    margin-top: 5px;
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .balloon {
+    width: 120px;
+    top: -29%;
+  }
+
+  .birthdaybox:before {
+    font-size: 180px;
+    top: 33%;
+  }
+
+  .birthdaycontent:after {
+    font-size: 50px;
+    line-height: 40px;
+  }
+
+  .cake {
+    width: 70px;
+  }
+
+  .enquirebtn.enquirebtn_1 {
+    right: 10px;
+  }
+
+  .enquirebtn {
+    right: 28px;
+  }
+}
+
+@media (max-width: 1280px) {
+  .premixx_banner_section div h1 {
+    font-size: 1.9rem;
+  }
+
+  .premixx_banner_section h1 span {
+    font-size: 1.1rem;
+  }
+
+  .premix_intro_data p {
+    font-size: clamp(17px, 4.2vw, 18px);
+  }
+
+  .premix_intro_data ul li h3 {
+    font-size: clamp(10px, 1.8vw, 14px);
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
+    font-size: 19px;
+    padding-left: 0;
+    padding: 0 15px;
+  }
+
+  .toplinks li {
+    margin: 0 6px;
+  }
+
+  .sepration {
+    height: 70vh;
+  }
+
+  .menuslide {
+    top: 10%;
+    height: inherit;
+    padding: 5px 0;
+  }
+
+  .menuslide .togmenu ul li a {
+    padding: 0 15px;
+  }
+
+  .togmenu {
+    height: 100%;
+  }
+
+  .aboutus {
+    height: 65vh;
+  }
+
+  .conceretcont p {
+    width: 70%;
+  }
+
+  #news {
+    padding-top: 50px;
+  }
+
+  section#dreamquote {
+    padding: 0;
+  }
+
+  .quotecont a {
+    line-height: 40px;
+    height: auto;
+  }
+
+  .aboutusinner:before {
+    height: 65vh;
+  }
+
+  #whyarcus .aboutusinner:before,
+  .aboutusinner.realty:before {
+    height: 55vh;
+  }
+
+  .aboutusinner.realty h2 {
+    width: 100%;
+  }
+
+  .plantstab ul.react-tabs__tab-list li {
+    padding: 0 25px;
+  }
+
+  .dreamquotestn .col-12.row,
+  .dreamquotestn {
+    height: 50vh;
+  }
+
+  .dreamquote {
+    height: 75vh;
+  }
+
+  .adrssblk h4 {
+    font-size: 15px;
+  }
+
+  .adrssblk {
+    padding: 12px;
+  }
+
+  .career .nricont p {
+    width: 100%;
+    margin: 0;
+  }
+
+  .sportbox {
+    width: 32%;
+  }
+
+  .sportzonerow {
+    margin-bottom: 0;
+  }
+
+  .locationcont ul {
+    width: 100%;
+  }
+
+  .amenitiesrow .amenitiesstn:nth-child(even) {
+    margin-bottom: 0;
+  }
+
+  .plots:before,
+  .snapshot:before {
+    width: 400px;
+    height: 280px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .snapshotbox h4 {
+    font-size: 22px;
+  }
+
+  .realestates p {
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 28px;
+  }
+
+  .realtitle h4:before {
+    width: 65px;
+  }
+
+  header.niketan .menus .toplinks li a {
+    padding: 0;
+  }
+
+  .slick-dots li {
+    margin: 0 3px;
+  }
+
+  .balloon {
+    top: -29%;
+  }
+
+  .cake {
+    width: 60px;
+    bottom: 15%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .premix_intro_data ul li h3 {
+    font-size: 11px;
+  }
+
+  .tab_cnt::after,
+  .premixx_banner_section::after,
+  .premixx_banner_section::before {
+    width: 110px;
+    height: 25px;
+  }
+
+  .premixx_feature {
+    height: 140px;
+    width: 140px;
+    padding: 15px;
+  }
+
+  .premixx_introductoin::after {
+    right: -10%;
+    height: 160px;
+    width: 160px;
+    background-size: contain;
+  }
+
+  .premixx_features_list::before {
+    height: 160px;
+    background-size: contain;
+    width: 160px;
+    left: -10%;
+  }
+
+  .premixx_features p {
+    width: 85%;
+  }
+
+  .header_strip ul li {
+    background-color: #ee3147;
+    padding: 3px 20px;
+    border-radius: 28px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .premixx_banner_section div h1 {
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] li {
+    padding: 10px 0;
+    font-size: 19px;
+  }
+
+  .premix_intro_data ul {
+    column-gap: 3.5rem;
+  }
+
+  .premix_intro_data ul li {
+    width: 25%;
+  }
+
+  .aboutsrealestates .realtitle h3:last-child {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .premix_intro_data {
+    align-items: center;
+  }
+
+  .conceretcont h2 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .toplinks li a {
+    width: 100%;
+    float: left;
+  }
+
+  .menus .toplinks li a {
+    padding-bottom: 10px;
+  }
+
+  .submenu {
+    top: 10vh;
+  }
+
+  .submenuchild {
+    width: 57%;
+  }
+
+  .hemburgur {
+    width: 40px;
+    height: 40px;
+    margin-left: 0;
+  }
+
+  .hemburgur span {
+    height: 1px;
+  }
+
+  .realtitle h4 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .enquirebtn {
+    width: 7%;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    letter-spacing: 1px;
+  }
+
+  h1 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .aboutus {
+    height: 74vh;
+  }
+
+  .slick-dots li button {
+    height: 6px;
+    width: 6px;
+  }
+
+  .slick-dots {
+    margin-top: 5px;
+  }
+
+  .dreamquotestn h3 {
+    margin: 10px 0;
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .quotecont h4 {
+    font-size: 18px;
+  }
+
+  .quotecont a.btn-4 span {
+    font-size: 14px;
+  }
+
+  .contactstrp {
+    width: 100%;
+    margin: 0;
+  }
+
+  .fixed .logo a img {
+    width: 150px;
+  }
+
+  h3 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .aboutuscont {
+    width: 100%;
+  }
+
+  .aboutuscont h2 {
+    width: 100%;
+  }
+
+  .nsgroup .title:before {
+    left: -19vw;
+  }
+
+  .toplinks li a.active:before {
+    bottom: 0;
+  }
+
+  ul.react-tabs__tab-list li {
+    font-size: 9px;
+    letter-spacing: 0;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  .clintelbox ul li {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }
+
+  .clintelbox ul li p {
+    font-size: 13px;
+  }
+
+  .currentopening {
+    width: 90%;
+  }
+
+  .contactform ul li input {
+    font-size: 13px;
+  }
+
+  .realestates {
+    width: 100%;
+  }
+
+  .security-container {
+    width: 90%;
+    margin: 0 5%;
+  }
+
+  .sportzonecont ul,
+  .amenitiescontent ul {
+    width: 100%;
+  }
+
+  .real-container {
+    width: 80%;
+  }
+
+  .copyright p,
+  .copyright p a {
+    margin: 10px 0;
+  }
+
+  .formcont ul li input[type="text"],
+  .formcont ul li input[type="email"],
+  .formcont ul li input[type="tel"] {
+    height: 35px;
+    font-size: 14px;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 1040px) {
+  .premix_intro_data {
+    width: 95%;
+  }
+
+  .premix_qoutes .container::after,
+  .premixx_introductoin .container::after {
+    width: 70px;
+    background-size: contain;
+  }
+
+  .premix_intro_data ul li img {
+    padding: 5% 0;
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
+    font-size: 16px;
+    padding-left: 0;
+    padding: 0 15px;
+    height: 60px;
+  }
+
+  .premix_intro_data p {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .premixx_features p {
+    width: 100%;
+  }
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  .conceretcont h2 {
+    font-size: 24px;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+  }
+
+  .enquirebtn_1 {
+    right: -1.75%;
+  }
+
+  .enquirebtn {
+    width: 8%;
+  }
+
+  .conceretcont p {
+    width: 80%;
+  }
+
+  .logo a img {
+    width: 150px;
+  }
+
+  .amenities:before,
+  #aboutsrealestates::before {
+    width: 400px;
+  }
+
+  .numberbanner .web-container {
+    width: 100%;
+  }
+
+  .numberbanner .web-container .count {
+    padding: 0;
+  }
+
+  .toplinks li {
+    margin: 0 3px;
+    padding: 0 3px;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    font-size: 11px;
+    letter-spacing: 0.8px;
+  }
+
+  .hemburgur {
+    margin-left: 15px;
+  }
+
+  .homcolft h2 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .hemburgur span {
+    height: 1px;
+  }
+
+  h1 {
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
+
+  .aboutconsts p {
+    line-height: 22px;
+  }
+
+  body {
+    font-size: 13px;
+    line-height: 22px;
+  }
+
+  .aboutconsts p em {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .title {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+
+  .title h2 {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  h3 {
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+  }
+
+  .conceretcont p {
+    width: 90%;
+  }
+
+  .dreamquotestn h3 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .quotecont {
+    width: 90%;
+  }
+
+  .contactbox {
+    width: 100%;
+  }
+
+  ul.react-tabs__tab-list li {
+    width: auto;
+    padding: 0 20px;
+  }
+
+  .aboutuscont {
+    margin: 0;
+  }
+}
+
+@media (max-width: 840px) {
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .premixx_features p {
+    font-size: 0.9rem;
+    text-wrap: wrap;
+  }
+
+  .premixx_tab_list {
+    margin: 25px 0;
+  }
+
+  .premixx_banner_section div h1 {
+    font-size: 1.4rem;
+  }
+
+  .banner_rgt_scn::before {
+    border: 2px solid #ee3147;
+    outline: 20px solid #ddd;
+  }
+
+  .premixx_tab_list__content {
+    width: 100%;
+    padding: 15px 0;
+  }
+
+  .tab_cnt::after {
+    right: -25%;
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
+    text-align: left;
+  }
+
+  .enquirebtn_1 {
+    right: -2.05%;
+  }
+
+  .enquirebtn {
+    width: 11%;
+  }
+
+  .fixed .logo a img,
+  .header.fixed .logo.anandniketan a img {
+    width: 100px;
+  }
+
+  .aboutusinner {
+    margin-bottom: 50px;
+  }
+
+  .powerplant {
+    flex-wrap: wrap;
+  }
+
+  .newslider:last-child {
+    margin-top: 50px;
+  }
+
+  .newsliderh,
+  .newslidecont {
+    width: 90%;
+    margin: 0px auto;
+  }
+
+  .conceretcont {
+    width: 90%;
+    margin: 0 5%;
+    text-align: center;
+  }
+
+  .nsgroup ul li:before {
+    width: 26px;
+  }
+
+  .togmenu ul li a,
+  .toplinks li a,
+  .toplinks li span {
+    font-size: 9px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+  }
+
+  .webarrow:before {
+    width: 1px;
+    height: 50px;
+  }
+
+  .aboutus {
+    height: auto;
+  }
+
+  .btn10 {
+    font-size: 9px;
+    padding: 5px 10px;
+  }
+
+  .aboutus {
+    padding-bottom: 50px;
+  }
+
+  .news {
+    margin: 0;
+  }
+
+  .conceretcont p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .dreamquote,
+  .contactstrp,
+  section,
+  .numberbanner,
+  .count,
+  .footer {
+    padding: 35px 0;
+  }
+
+  .title h2 {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .prolayer h4 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .countnum {
+    font-size: 36px;
+  }
+
+  .labelcont {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .App {
+    margin-bottom: 0;
+    height: 130px;
+  }
+
+  .App:before {
+    right: -10px;
+  }
+
+  .quotecont h4 {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+  .quotecont p {
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0.3px;
+  }
+
+  .quotecont a.btn-4 {
+    line-height: 24px;
+  }
+
+  .quotecont a.btn-4 span {
+    font-size: 12px;
+  }
+
+  .dreamquotestn h3 {
+    font-size: 21px;
+    line-height: 26px;
+  }
+
+  .dreamquotestn:before {
+    width: 70px;
+    height: 70px;
+  }
+
+  .contactbox img {
+    width: 35px;
+  }
+
+  .contactbox h4 {
+    margin: 5px 0;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+  }
+
+  .productslider .slick-slider button.slick-arrow.slick-prev,
+  .productslider .slick-slider button.slick-arrow.slick-next {
+    width: 25px;
+    height: 25px;
+  }
+
+  .menuslide {
+    height: 20px;
+    top: 12%;
+  }
+
+  .gallery button.slick-arrow.slick-next {
+    width: 20px;
+    height: 40px;
+    right: 3%;
+  }
+
+  .gallery button.slick-arrow.slick-prev {
+    width: 20px;
+    height: 40px;
+    left: 3%;
+  }
+
+  .header.fixed .logo.anandniketan {
+    padding: 0;
+  }
+}
+
+@media (max-width: 780px) {
+  .enq_form {
+    display: none;
+  }
+
+  .premixx_tab_list .accordion {
+    display: flex;
+  }
+
+  .premixx_introductoin {
+    clip-path: none;
+  }
+
+  .premixx_introductoin:before {
+    z-index: 0;
+  }
+
+  .premix_intro_data {
+    width: 100%;
+    margin: 35px 0;
+  }
+
+  .header_strip {
+    display: none;
+  }
+
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] li {
+    padding: 7px 25px;
+    font-size: 18px;
+    width: auto;
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] {
+    margin-bottom: 30px;
+  }
+
+  .premix_intro_data p {
+    font-size: clamp(14px, 1.9vw, 17px);
+    line-height: 1.8;
+    letter-spacing: 1px;
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
+    font-size: 14px;
+    padding-left: 0;
+    padding: 0 15px;
+    height: 55px;
+  }
+
+  .premixx_features_list {
+    padding-top: 35px;
+  }
+
+  .banner_rgt_scn::before {
+    border: 1.8px solid #ee3147;
+    outline: 20px solid #ddd;
+  }
+
+  .premix_intro_data {
+    flex-direction: column;
+    margin: 40px 0;
+    gap: 30px;
+  }
+
+  .premix_intro_left {
+    width: 50%;
+  }
+
+  .premix_intro_rgt {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .premix_intro_data p {
+    text-align: center;
+  }
+
+  .aboutsrealestates .realtitle h1 {
+    width: 100%;
+  }
+
+  .menuslide .togmenu ul li .active {
+    color: #fe0006;
+  }
+
+  .enquirebtn {
+    width: 10%;
+  }
+
+  .realty .toplinks li:nth-child(8n-1),
+  .desktop-show {
+    display: none;
+  }
+
+  .mobile-show {
+    display: block;
+  }
+
+  .aboutusinner:before,
+  #whyarcus .aboutusinner:before,
+  .aboutusinner.realty:before {
+    height: 300px;
+  }
+
+  .credentialcont li {
+    width: 46%;
+    margin: 0 2%;
+    min-height: 180px;
+  }
+
+  .teambox h3 {
+    font-size: 19px;
+  }
+
+  .aboutimg:before {
+    height: 150%;
+  }
+
+  .teambox {
+    width: 98%;
+    height: 300px;
+  }
+
+  .container {
+    width: 95%;
+    max-width: 95%;
+  }
+
+  section,
+  .dreamquote.pb-0,
+  .jslider,
+  .footer {
+    overflow: hidden;
+  }
+
+  .header.fixed .hemburgur.active span {
+    background: #000;
+  }
+
+  h2 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px;
+  }
+
+  ul.react-tabs__tab-list {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  ul.react-tabs__tab-list li {
+    margin: 1%;
+  }
+
+  ul.react-tabs__tab-list {
+    margin-bottom: 15px;
+  }
+
+  .nscontainer .slick-slider button.slick-arrow.slick-next {
+    right: -15%;
+  }
+
+  .nscontainer .slick-slider button.slick-arrow.slick-prev {
+    left: -15%;
+  }
+
+  .nsrelcont {
+    padding: 12px;
+  }
+
+  .nsrelcont span {
+    font-size: 13px;
+  }
+
+  .nsrelcont span:last-child {
+    width: auto;
+    float: right;
+    display: flex;
+    justify-content: end;
+  }
+
+  .nsrelcont span p {
+    width: auto;
+  }
+
+  .slick-slider button.slick-arrow.slick-prev,
+  .slick-slider button.slick-arrow.slick-next {
+    width: 40px;
+    height: 40px;
+  }
+
+  .adrssblk {
+    width: 48%;
+    height: 150px;
+  }
+
+  .prodser {
+    margin-bottom: 15px;
+  }
+
+  .contactform ul li input {
+    height: 35px;
+    font-size: 12px;
+    text-indent: 6px;
+  }
+
+  .contactform ul li {
+    margin: 3px 0.5%;
+  }
+
+  .menuslide {
+    height: 100vh;
+    top: 0;
+    padding-top: 10vh;
+    z-index: 1;
+  }
+
+  .col-3.d-flex.align-items-center {
+    position: relative;
+    z-index: 9;
+  }
+
+  .toplinks li:last-child {
+    position: relative;
+    z-index: 9;
+  }
+
+  .togmenu {
+    padding: 0;
+    flex-wrap: wrap;
+    z-index: 5;
+  }
+
+  .togmenu ul {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .togmenu ul li,
+  .togmenu ul li a {
+    width: 100%;
+    float: left;
+    border: none;
+  }
+
+  .menuslide .togmenu ul li a {
+    border: none;
+    font-size: 19px;
+    font-weight: 300;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-bottom: solid 1px #5f86b7;
+  }
+
+  .togmenu ul li,
+  .productslider .Concreteimg,
+  .prodetails {
+    margin: 0;
+    padding: 0;
+  }
+
+  .menuslide .togmenu ul li:last-child,
+  .menuslide .togmenu ul li:last-child a {
+    border: none;
+  }
+
+  button.hemburgur.active span {
+    background: #fff;
+  }
+
+  .dreamquotestn .col-12.row,
+  .dreamquotestn {
+    height: 30vh;
+  }
+
+  .dreamquote {
+    height: 45vh;
+  }
+
+  .dreamquotestn:before {
+    width: 70px;
+    height: 50px;
+  }
+
+  .logo,
+  .menus,
+  .fixed .menus,
+  .logo.anandniketan {
+    padding: 0;
+  }
+
+  .header.fixed,
+  .header {
+    padding: 15px 0;
+  }
+
+  .hemburgur span:nth-child(2) {
+    top: 15px;
+  }
+
+  .realtitle h3 {
+    width: 100%;
+  }
+
+  header.niketan .menuslide .togmenu ul li:last-child a {
+    border: none;
+  }
+
+  .securitydiv ul li {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px 0;
+  }
+
+  .desp p {
+    margin-bottom: 25px;
+  }
+
+  .amenitiescontent img {
+    width: 60%;
+  }
+
+  .amenitiescontent ul li,
+  .sportzonecont ul li {
+    font-size: 13px;
+    line-height: 24px;
+  }
+
+  .amenitiesimg img,
+  .desp p,
+  .prodetails,
+  .securitydiv {
+    width: 100%;
+  }
+
+  .proserv img,
+  .aboutslider img {
+    margin-bottom: 25px;
+  }
+
+  .homcolrt img {
+    height: 70vh;
+    object-fit: cover;
+    object-position: right;
+  }
+
+  .jslider {
+    height: auto;
+  }
+
+  .aboutcont {
+    width: 100%;
+    text-align: center;
+  }
+
+  .aboutconsts {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .aboutcont .title:before {
+    left: -42vw;
+  }
+
+  .condentialscont ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .condentialscont ul li {
+    width: 30%;
+  }
+
+  .homeslider.slide03 .homcolrt img {
+    object-position: center;
+  }
+
+  .birthdaybox {
+    width: 80%;
+    padding: 50px 15px;
+    /* height: 30vh; */
+    margin: 0 auto;
+  }
+
+  #birthday {
+    width: 64%;
+    margin: 0 18%;
+  }
+
+  .balloon {
+    width: 80px;
+    top: -25%;
+  }
+
+  .birthdaycontent {
+    padding: 40px 25px;
+  }
+
+  .birthdaybox:before {
+    font-size: 150px;
+  }
+
+  .birthday {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .birthday:before {
+    left: 10px;
+    bottom: 10px;
+    top: 10px;
+    right: 10px;
+  }
+
+  .birthdaycontent p {
+    margin-bottom: 5px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .cake {
+    bottom: 12%;
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] {
+    display: none !important;
+  }
+
+  .premixx_tab_list__content ul {
+    padding-left: 0;
+    width: 100%;
+    gap: 12px;
+  }
+
+  .premixx_tabs_inner {
+    display: none;
+    position: relative;
+  }
+
+  .premixx_tab_list__content ul li {
+    line-height: 1.5;
+    font-size: 16px;
+  }
+
+  .premixx_features p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .sub_m_menu {
+    height: 100vh;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    background: #606060;
+    opacity: 0;
+    z-index: -1;
+  }
+
+  .sub_m_menu.visible {
+    opacity: 1;
+    z-index: 6;
+    transition: all 0.3s;
+  }
+
+  .smenu {
+    width: 88%;
+    margin: 0 auto;
+    padding-top: 10vh;
+  }
+
+  .sub_m_menu_close {
+    content: "";
+    position: absolute;
+    top: 18px;
+    right: 36px;
+    font-size: 28px;
+    font-weight: 100;
+    background: #606060;
+    color: #ffffffcb;
+    z-index: 10;
+  }
+
+  .smenu ul li a {
+    border-bottom: solid 1px #949090 !important;
+  }
+
+  .smenu ul li:last-child a {
+    border-bottom: none !important;
+  }
+
+  .banner_left_scn:before {
+    height: 95%;
+  }
+
+  .prd_logo {
+    width: 170px;
+  }
+}
+
+@media (max-width: 630px) {
+  .prd_logo img {
+    padding: 10px 30px;
+  }
+
+  .banner_left_scn {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 180px;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .accordion__panel {
+    padding: 0.156rem 1rem;
+    animation: fadein 0.35s ease-in;
+  }
+
+  .premix_qoutes .dreamquotestn .col-12.row,
+  .premix_qoutes .dreamquotestn {
+    align-items: center;
+    /* height: 430px; */
+    height: auto;
+  }
+
+  #premixx_banner_section {
+    margin-top: 25px;
+  }
+
+  .banner_rgt_scn {
+    position: absolute;
+    width: 35%;
+    top: 32%;
+    right: 10%;
+  }
+
+  .premixx_banner_section div h1 {
+    font-size: 1.8rem;
+    padding-left: 0;
+  }
+
+  .premixx_banner_section div h1::before {
+    left: 50%;
+  }
+
+  .banner_left_scn:before {
+    height: 70%;
+  }
+
+  .banner_show_mobile {
+    display: flex;
+  }
+
+  .banner_show_desktop {
+    display: none;
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] li {
+    width: 25%;
+  }
+
+  .tab_cnt::after,
+  .premixx_banner_section::after,
+  .premixx_banner_section::before {
+    width: 80px;
+    height: 18px;
+    bottom: 0px;
+  }
+
+  .premixx_banner_section::after {
+    bottom: -5%;
+  }
+
+  .react-tabs[data-type="premixx_tabs_inner"] {
+    flex-direction: column;
+  }
+
+  .snapshot .realtitle h3,
+  .plots .realtitle h3,
+  .amenities .realtitle h3,
+  .location .realtitle h3 {
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+
+  .aboutsrealestates .realtitle h3:last-child {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .aboutsrealestates .realtitle h1 {
+    font-size: 24px;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+  }
+
+  .aboutsrealestates .realtitle h3 {
+    font-size: 12px;
+  }
+
+  .nsarcusstn {
+    flex-wrap: wrap;
+  }
+
+  .homcolft {
+    bottom: 2%;
+  }
+
+  .nsarcusbox h2 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+  .enquirebtn {
+    width: 15%;
+  }
+
+  .contactform,
+  .productslider .Concreteimg,
+  .prodetails {
+    width: 100%;
+  }
+
+  .contactform ul li {
+    width: 48%;
+    margin: 1%;
+  }
+
+  .contactform span.btn10 {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .nsarcusbox {
+    width: 100%;
+    text-align: center;
+  }
+
+  .nsarcusdetail .aboutusinner {
+    height: auto;
+  }
+
+  .nsarcusdetail .nsgroup ul li:before {
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: inherit;
+  }
+
+  .aboutimg:before {
+    opacity: 0;
+  }
+
+  .realtitle h4 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .real-container {
+    width: 90%;
+  }
+
+  .realtitle h3 {
+    width: 100%;
+  }
+
+  .snapshotbox {
+    width: 46%;
+  }
+
+  .snapshotbox:nth-child(7) {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+  }
+
+  .snapshotbox:nth-child(7):before {
+    opacity: 1;
+  }
+
+  .securitydiv ul li {
+    font-size: 16px;
+  }
+
+  .plotbox ul li span img {
+    width: 30%;
+  }
+
+  .plotbox,
+  .plotbox ul li {
+    width: 49%;
+  }
+
+  .amenities:before,
+  #aboutsrealestates::before {
+    width: 300px;
+  }
+
+  .formcont ul li {
+    width: 32%;
+    margin: 5px 0;
+  }
+
+  .formcont ul li input[type="text"],
+  .formcont ul li input[type="email"],
+  .formcont ul li input[type="tel"] {
+    line-height: 35px;
+    font-size: 13px;
+  }
+
+  .nsgroupcont p {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+  }
+
+  .formcont ul li:last-child .btn10 {
+    padding: 8px 40px;
+  }
+
+  .realtitle h3,
+  h2,
+  .heading h2 {
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+  }
+
+  .realtitle h2 {
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+
+  .aboutcont {
+    width: 100%;
+  }
+
+  body {
+    border-left: 7px solid #fff;
+    border-right: 7px solid #fff;
+    font-size: 14px;
+  }
+
+  .aboutstn {
+    flex-wrap: wrap;
+  }
+
+  .aboutcont .title:before {
+    left: -40vw;
+  }
+
+  .concert {
+    flex-wrap: wrap;
+  }
+
+  .Concreteimg {
+    width: 100%;
+  }
+
+  .newslider:last-child .newslidecont .conceretcont,
+  .conceretcont {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .news {
+    width: 80%;
+    margin: 0px 10%;
+  }
+
+  .condentialscont ul li {
+    width: 33%;
+  }
+
+  .condentialscont ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline;
+  }
+
+  .quotecont {
+    width: 100%;
+    text-align: center;
+    margin: 50px 0;
+  }
+
+  .dreamquotestn {
+    height: auto;
+  }
+
+  .dreamquotestn .col-12.row {
+    margin: 0;
+  }
+
+  .dreamquote {
+    height: 70vh;
+  }
+
+  .quotecont a.btn-4 {
+    width: 50%;
+    margin: 0px auto;
+  }
+
+  .contactbox {
+    text-align: center;
+  }
+
+  .footer {
+    background-size: cover;
+    background-position: bottom;
+  }
+
+  .copyright p,
+  .copyright p a {
+    width: 100%;
+    text-align: center;
+    margin: 5px 0;
+  }
+
+  .copyright {
+    padding: 15px 0;
+  }
+
+  footer {
+    margin-bottom: 30px;
+  }
+
+  .contactstrp {
+    width: 60%;
+    margin: 0 20%;
+  }
+
+  .App {
+    width: 100%;
+    border: none;
+    margin: 0;
+    height: auto;
+    border-bottom: solid 1px #838281;
+  }
+
+  .count {
+    flex-wrap: wrap;
+  }
+
+  .App:before {
+    opacity: 0;
+  }
+
+  .App:last-child {
+    border: none;
+  }
+
+  .aboutconsts {
+    text-align: center;
+  }
+
+  .aboutslider {
+    margin: 0px auto;
+  }
+
+  .banner .homcolrt img {
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .aboutusinner:before {
+    top: 28%;
+  }
+
+  .aboutusinner .aboutimg {
+    margin-bottom: 25px;
+  }
+
+  .nsgroup .title:before {
+    left: -40vw;
+  }
+
+  .cultureconts {
+    flex-wrap: wrap;
+  }
+
+  .culturebox {
+    margin: 25px 0;
+  }
+
+  .culturebox img {
+    width: 50%;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+  .teambox {
+    padding: 5px;
+    height: 350px;
+  }
+
+  #whyarcus .aboutusinner:before {
+    top: 20%;
+  }
+
+  .nsgroup .title {
+    width: 90%;
+    float: right;
+  }
+
+  .adrssblk,
+  .bannercont {
+    width: 90%;
+    height: auto;
+  }
+
+  .web-container {
+    width: 90%;
+  }
+
+  .plantstab ul.react-tabs__tab-list li {
+    margin: 1%;
+  }
+
+  .plotbox ul li {
+    margin: 10px 0;
+  }
+
+  .plotstn {
+    flex-wrap: wrap;
+  }
+
+  .amenitiescontent {
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+  }
+
+  .amenitiesstn {
+    flex-wrap: wrap;
+  }
+
+  .amenitiescontent ul {
+    text-align: center;
+  }
+
+  .amenitiescontent ul li:before {
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .locationinfo {
+    padding-top: 25px;
+    flex-wrap: wrap;
+  }
+
+  .plotbox,
+  .locationcont,
+  .locationimg,
+  .nsgroupimg,
+  .nsgroupcont,
+  .amenitiesstn:last-child,
+  .real-container,
+  .amenitiesimg,
+  .securitydiv,
+  .Concreteimg,
+  .powerplant .slick-dots,
+  .nsgroup,
+  .culturebox,
+  .aboutusinner .aboutimg,
+  .snapshotbox p,
+  .sportzoneimg,
+  .sportzonecont {
+    width: 100%;
+  }
+
+  .amenitiesstn:last-child .amenitiescontent {
+    margin: 0;
+  }
+
+  .locationcont ul,
+  .nsgroupcont {
+    text-align: center;
+  }
+
+  .aboutnsgroup .nsgroupstn {
+    flex-wrap: wrap;
+  }
+
+  .nsgroupimg img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .amenitiescontent img {
+    width: 50%;
+  }
+
+  .productslider button.slick-arrow.slick-next {
+    right: -10%;
+  }
+
+  .productslider button.slick-arrow.slick-prev {
+    left: -10%;
+  }
+
+  ul.react-tabs__tab-list li {
+    font-size: 12px;
+  }
+
+  .sportzonerow {
+    flex-wrap: wrap;
+  }
+
+  .realtitle,
+  .nsarcusdetail .aboutusinner {
+    margin-bottom: 25px;
+  }
+
+  .realtitle h4 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .realestates p {
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .securitycont {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .securitydiv ul li:before {
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .securitydiv ul li:last-child:before {
+    opacity: 1;
+  }
+
+  .securitydiv ul li:last-child {
+    padding: 10px 0;
+  }
+
+  .enquirebtn:hover a:before {
+    left: 0;
+  }
+
+  .plots:before,
+  .snapshot:before {
+    width: 200px;
+    height: 200px;
+  }
+
+  .aboutusinner:first-child .title {
+    margin-bottom: 30px;
+  }
+
+  .homcolrt .btn10 {
+    padding: 0px 10px;
+    font-size: 11px;
+  }
+
+  .homcolrt .btn10 span:before {
+    font-size: 20px;
+    top: 2px;
+  }
+
+  .nricont ul li,
+  .nricont p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .accordion-item.active {
+    height: 465px;
+  }
+
+  .nricont {
+    padding: 5px;
+  }
+
+  #birthday.slideEffect.active {
+    right: inherit;
+    bottom: -100vh;
+  }
+
+  .prd_name {
+    font-size: 14px !important;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  span.error-message {
+    font-size: 11px;
+  }
+
+  .thank-you-popup {
+    padding: 45px 10px;
+    max-width: 500px;
+    width: 90%;
+  }
+
+  .premixx_banner_section h1 span {
+    display: grid;
+  }
+
+  .premixx_tab_list {
+    margin: 10px 0;
+  }
+
+  ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
+    background-color: #ee3147 !important;
+    border: solid 1px #ed3237;
+  }
+
+  .premix_intro_data {
+    margin: 55px 0;
+  }
+
+  .premixx_banner_section div h1:before {
+    width: 40px;
+    height: 8px;
+    border-top: solid 1.5px var(--redColor);
+    border-bottom: solid 1.5px var(--redColor);
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] li {
+    width: max-content;
+  }
+
+  .premix_intro_left {
+    width: 90%;
+  }
+
+  .premix_intro_data ul {
+    column-gap: normal;
+    justify-content: space-around;
+  }
+
+  .premix_intro_data p {
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.6;
+  }
+
+  .premixx_features_list::before {
+    height: 160px;
+    background-size: contain;
+    width: 160px;
+    left: -21%;
+    top: -7%;
+  }
+
+  .premixx_introductoin::after {
+    right: -20%;
+    height: 160px;
+    width: 160px;
+    background-size: contain;
+    top: 40%;
+  }
+
+  .premix_intro_data ul li {
+    width: auto;
+  }
+
+  .banner_rgt_scn::before {
+    border: 3px solid #ee3147;
+    outline: 15px solid #ddd;
+  }
+
+  .banner_rgt_scn {
+    width: 40%;
+  }
+
+  .premixx_banner_section div h1 {
+    font-size: 1.6rem;
+  }
+
+  .products .title h3,
+  .aboutus .title h3 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .web-container,
+  .dreamquotestn h3,
+  .currentopening,
+  .gallery .slick-list,
+  .gallery {
+    width: 100%;
+  }
+
+  .anandniketanbanner {
+    height: 85vh;
+    background-attachment: inherit;
+  }
+
+  .clicktodown,
+  .clicktodown:before {
+    height: 80px;
+  }
+
+  .aboutcont .title:before {
+    left: -47vw;
+  }
+
+  header.niketan .logo a img {
+    width: 150px;
+  }
+
+  .hrera {
+    padding: 8px 10px;
+    font-size: 11px;
+  }
+
+  .heading:before,
+  .bannercont:before {
+    width: 35px;
+    height: 35px;
+  }
+
+  .package_cnt {
+    align-items: flex-start;
+  }
+
+  /*     
+    .anandniketanbanner .enquirebtn {
+        width: 50%;
+        right: inherit;
+        bottom: 0;
+        top: inherit;
+        left: 0;
+    }
+    .anandniketanbanner .enquirebtn_1 {
+        width: 50%;
+        right: inherit;
+        bottom: 0;
+        top: inherit;
+        left: 0;
+    }
+
+    .anandniketanbanner .enquirebtn a {
+        transform: inherit;
+        width: 48%;
+        text-align: center;
+        margin: 0 1.5%;
+        line-height: 30px;
+    }
+    .anandniketanbanner .enquirebtn_1 a {
+        transform: inherit;
+        width: 48%;
+        text-align: center;
+        margin: 0 1.5%;
+        line-height: 30px;
+    } */
+
+  .enquirebtn {
+    width: 49%;
+    left: inherit;
+    bottom: 0;
+    top: inherit;
+    left: 0;
+  }
+
+  .enquirebtn_1 {
+    width: 49%;
+    bottom: 0;
+    top: inherit;
+    left: 50%;
+  }
+
+  .enquirebtn a {
+    transform: inherit;
+    width: 100%;
+    text-align: center;
+    margin: 0 1.5%;
+    line-height: 30px;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .sportzonecont ul {
+    margin: 0;
+    text-align: center;
+  }
+
+  .formcont ul li {
+    width: 100%;
+  }
+
+  .formcont ul {
+    width: 80%;
+    margin: 0px 10%;
+  }
+
+  .heading {
+    padding-top: 20px;
+  }
+
+  .formcont ul li:last-child .btn10 {
+    width: 100%;
+  }
+
+  .amenitiescontent ul li,
+  .sportzonecont ul li {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .amenitiesstn:last-child {
+    margin-bottom: 0;
+  }
+
+  .sportzonecont ul li:before {
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* .nsgroup .title, .title {
+        width: 80%;
+        margin-left: 20%;
+    } */
+  .aboutusinner:before {
+    top: 185px;
+  }
+
+  .dreamquote,
+  .contactstrp,
+  section,
+  .numberbanner,
+  .count,
+  .footer,
+  .amenities {
+    padding: 25px 0;
+  }
+
+  .bannercont h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+  .security .heading:before,
+  .plots .heading:before,
+  .sportzone .heading:before,
+  .location .heading:before,
+  .requestacall .heading:before {
+    top: -25px;
+  }
+
+  .title:before {
+    left: -45vw;
+  }
+
+  .nsarcusbox h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .teambox {
+    height: auto;
+  }
+
+  .productslider button.slick-arrow.slick-next {
+    right: 2%;
+  }
+
+  .productslider button.slick-arrow.slick-prev {
+    left: 2%;
+  }
+
+  .aboutusinner:nth-child(2)::before {
+    top: 132px;
+  }
+
+  .aboutusinner .row,
+  .proserv .row.col-12 {
+    margin: 0;
+    padding: 0;
+  }
+
+  .title {
+    margin-left: 10%;
+    margin-bottom: 20px;
+  }
+
+  .nsgroup {
+    width: 100%;
+  }
+
+  .nsgroup ul {
+    width: 100%;
+    float: right;
+  }
+
+  .accordion-item {
+    height: auto;
+    float: left;
+    width: 100%;
+  }
+
+  .nsgroup .title:before {
+    left: -40vw;
+  }
+
+  .dreamquotestn:before {
+    width: 50px;
+    height: 40px;
+    left: 45%;
+  }
+
+  .dreamquote {
+    height: 82vh;
+  }
+
+  .homcolft h2 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  .homcolft {
+    height: auto;
+    padding: 10px 0;
+  }
+
+  .jslider {
+    height: auto;
+  }
+
+  .homeslider.slide02 img {
+    object-position: center;
+  }
+
+  .hemburgur {
+    width: 50px;
+    height: 40px;
+  }
+
+  .header .col-3,
+  .header .col-9 {
+    width: 50%;
+  }
+
+  .logo a img {
+    width: 100%;
+  }
+
+  .title h2 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  h1 {
+    display: block;
+  }
+
+  .aboutcont h1 span:last-child {
+    padding-left: 5px;
+  }
+
+  .header.fixed {
+    padding: 10px 0;
+  }
+
+  .fixed .logo a img {
+    width: 140px;
+  }
+
+  body,
+  .aboutconsts p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .aboutconsts p em,
+  .conceretcont p {
+    font-size: 19px;
+    line-height: 25px;
+  }
+
+  .btn10 {
+    padding: 6px 15px;
+    font-size: 12px;
+  }
+
+  .aboutslider,
+  .condentialscont ul li,
+  .credentialcont li {
+    width: 100%;
+  }
+
+  .news,
+  .productslider {
+    width: 100%;
+    margin: 0;
+  }
+
+  .productslider .slick-slider button.slick-arrow.slick-prev,
+  .productslider .slick-slider button.slick-arrow.slick-next {
+    height: 30px;
+    width: 30px;
+  }
+
+  #news {
+    padding-top: 15px;
+  }
+
+  .conceretcont p {
+    margin: 0;
+  }
+
+  .credentialcont li span img,
+  .condentialscont ul li span img {
+    width: 40%;
+  }
+
+  .condentialscont ul,
+  .quotecont a.btn-4 {
+    width: 80%;
+    margin: 0 10%;
+  }
+
+  .quotecont a.btn-4 {
+    line-height: 36px;
+  }
+
+  .countnum {
+    font-size: 42px;
+  }
+
+  .labelcont {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .dreamquotestn h3 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .quotecont h4 {
+    font-size: 17px;
+    margin-bottom: 5px;
+  }
+
+  .quotecont p {
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+  }
+
+  .footer .contactstrp {
+    width: 80%;
+    margin: 0 10%;
+  }
+
+  .jslider .slick-dots {
+    right: 5%;
+  }
+
+  .slick-dots li {
+    margin: 0 3px;
+  }
+
+  .menuslide {
+    padding-top: 5vh;
+  }
+
+  .credentialcont li span {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .bannercont h2 {
+    width: 90%;
+  }
+
+  .birthdaycontent p {
+    font-size: 13px;
+    line-height: 20px;
+    margin: 5px 0;
+  }
+
+  #birthday {
+    width: 90%;
+    margin: 0 5%;
+  }
+
+  .birthdaybox {
+    padding: 25px 10px;
+    width: 100%;
+    /* background-size: 95%; */
+  }
+
+  .birthdaybox:before {
+    font-size: 90px;
+    top: 22%;
+  }
+
+  .birthdaycontent:after {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .birthdaycontent {
+    padding: 20px;
+    width: 80%;
+  }
+
+  .balloon {
+    top: -28%;
+  }
+
+  .cake {
+    width: 40px;
+    bottom: 15%;
+  }
+
+  .birthdaycontent h4 {
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 15px;
+  }
+
+  .birthdaycontent span {
+    font-size: 8px;
+    line-height: 20px;
+  }
+
+  .sepration {
+    background-attachment: inherit;
+  }
+
+  .cross {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+  }
+
+  .premixx_introductoin .container::after {
+    content: none;
+  }
+
+  .prd_logo {
+    width: 160px;
+  }
+}
+
+@media (max-width: 420px) {
+  .premixx_banner_section div h1 {
+    font-size: 1.4rem;
+  }
+
+  .premix_intro_data p {
+    margin-bottom: 30px;
+  }
+
+  .premix_qoutes .dreamquotestn .col-12.row,
+  .premix_qoutes .dreamquotestn {
+    align-items: center;
+    height: auto;
+    /* height: 360px; */
+  }
+
+  .banner_left_scn:before {
+    height: 70%;
+  }
+
+  .premixx_features_list::before {
+    height: 160px;
+    background-size: contain;
+    width: 130px;
+    height: 130px;
+    left: -25%;
+    top: -13%;
+  }
+
+  .premixx_introductoin::after {
+    right: -20%;
+    height: 130px;
+    width: 130px;
+    background-size: contain;
+    top: 34%;
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] li {
+    padding: 7px 15px;
+    font-size: 15px;
+    margin: 0;
+  }
+
+  .premixx_tab_list ul[data-type="premixx_tabs"] {
+    margin-bottom: 20px;
+  }
+
+  .premix_intro_data p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .accordion__button {
+    font-size: 1.1rem;
+  }
+
+  .premixx_tab_list__content ul li {
+    line-height: 1.5;
+    font-size: 15px;
+  }
+
+  .premix_qoutes .quotecont {
+    margin: 35px 0;
+  }
+
+  .banner_rgt_scn {
+    width: 45%;
+    top: 30%;
+  }
+
+  .premixx_banner_section {
+    padding-bottom: 0;
+  }
+
+  .banner_show_mobile {
+    height: 30vh;
+    object-fit: cover;
+  }
+
+  .banner_left_scn:before {
+    height: 60%;
+  }
+
+  .menuslide .togmenu ul li a {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .hrera {
+    padding: 5px 7px;
+    font-size: 10px;
+  }
+
+  .plantstab ul.react-tabs__tab-list li {
+    padding: 0 20px;
+  }
+
+  .contactform ul li {
+    width: 100%;
+  }
+
+  .bannercont h2 {
+    width: 90%;
+  }
+
+  #sportzone::after,
+  .amenities:before,
+  #aboutsrealestates::before {
+    width: 100px;
+    height: 80px;
+  }
+
+  .heading:before {
+    top: -20px;
+  }
+
+  .aboutusinner .col-md-6 {
+    padding: 0;
+  }
+
+  .header.fixed {
+    padding: 10px 0;
+  }
+
+  .aboutcont .title:before {
+    left: -45vw;
+  }
+
+  .premix_qoutes .container::after {
+    content: none;
+  }
+}
+
+@media (max-width: 390px) {
+  .aboutsrealestates .realtitle h1 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  h1 {
+    font-size: 17px;
+    line-height: 26px;
+  }
+
+  .enquirebtn a span {
+    font-size: 11px;
+    letter-spacing: 2px;
+  }
+
+  .labelcont {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .countnum {
+    font-size: 36px;
+  }
+
+  .aboutcont .title:before {
+    left: -48vw;
+  }
+
+  .btn10 {
+    font-size: 10px;
+    padding: 2px 10px;
+  }
+
+  .aboutus,
+  .contactrow {
+    padding: 25px 0;
+  }
+
+  .conceretcont p,
+  .proserstn .row.col-12,
+  .sportzonerow {
+    margin: 0;
+  }
+
+  .web-container {
+    padding: 0;
+  }
+
+  .dreamquotestn h3 {
+    font-size: 21px;
+    line-height: 30px;
+  }
+
+  .credentialcont li {
+    width: 96%;
+    min-height: inherit;
+  }
+
+  .credentialcont li span {
+    width: 30%;
+  }
+
+  .plantstab ul.react-tabs__tab-list li,
+  ul.react-tabs__tab-list li {
+    padding: 0 10px;
+  }
+
+  .realtitle h3,
+  h2,
+  .heading h2 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  ul.react-tabs__tab-list li {
+    font-size: 11px;
+  }
+
+  .title:before {
+    left: -50vw;
+  }
+
+  .nsarcusbox h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .nsarcusbox h2 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .aboutimg,
+  .aboutuscont,
+  .aboutuscont h2,
+  .nsarcusdetail .aboutusinner {
+    margin-bottom: 10px;
+  }
+
+  .bannercont h1 {
+    font-size: 21px;
+    line-height: 30px;
+  }
+
+  .clicktodown {
+    height: 60px;
+  }
+
+  .snapshotbox {
+    width: 97%;
+  }
+
+  .plots:before,
+  .snapshot:before {
+    width: 250px;
+    height: 200px;
+  }
+
+  .plots:before,
+  .snapshot:before {
+    width: 250px;
+    height: 200px;
+  }
+
+  .snapshotbox:nth-child(7),
+  .snapshotbox:nth-child(8),
+  .snapshotbox:nth-child(9),
+  .snapshotbox {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
+
+  .snapshotbox:nth-child(7):before,
+  .snapshotbox:nth-child(8):before {
+    opacity: 1;
+  }
+
+  .snapshotbox:before {
+    height: 1px;
+    width: 50px;
+  }
+
+  .hemburgur {
+    width: 40px;
+    height: 40px;
+  }
+
+  .security-container,
+  .plotbox ul li {
+    width: 100%;
+    margin: 0;
+  }
+
+  .hemburgur span {
+    height: 1px;
+  }
+
+  .premixx_features p,
+  .premix_intro_data p {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .accordion__button {
+    padding: 0.9rem 1.3rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .premix_intro_data ul li {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+  }
+
+  .premixx_feature {
+    height: 160px;
+    width: 160px;
+  }
+
+  .premixx_tab_list__content ul li {
+    line-height: 1.5;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 300px) {
+  .banner_left_scn:before {
+    background-position: bottom;
+  }
+}
