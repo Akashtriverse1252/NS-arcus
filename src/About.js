@@ -24,7 +24,7 @@ export const About = () => {
     initialSlide: 0,
     autoplay: false,
     speed: 600,
-    arrows: false,
+    arrows: true,
     Default: true,
     autoplaySpeed: 8000,
     cssEase: "linear",
@@ -413,6 +413,20 @@ export const About = () => {
                             environment to set goals and generate productive
                             outcomes. When he isn't working, you'll find him
                             travelling or listening to classics.
+                          </p>
+                        </div>
+                      </div>
+                      <div>
+                        <div className="teambox">
+                          <h3>Mr. Anish Aryan Arora</h3>
+                          <p>
+                            Anish Aryan Arora, presently the Director of Growth
+                            and Brand Development at NS Arcus, holds more than
+                            three years of hands-on experience in real estate
+                            and marketing. Holding degrees in BCom and BME, he
+                            is dedicated to driving innovation and success in
+                            the industry. His unwavering professionalism and
+                            commitment set him apart in the field.
                           </p>
                         </div>
                       </div>

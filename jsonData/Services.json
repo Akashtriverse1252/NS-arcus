@@ -1,0 +1,33 @@
+{
+    "logistics": {
+      "slug": "logistics",
+      "title": "Logistics",
+      "image": "http://nsarcus.triverseadvertising.com/static/media/Logistics.f6625d9e22474a3a0140.jpg",
+      "description": "With our reliable transportation system, we provide on-time delivery of products to the client’s site. As your transportation coordinator, we offer optimized management of your concrete transportation needs and provide the appropriate means of transport while guaranteeing increased productivity, safety, and continued quality of operations."
+    },
+    "operations-management": {
+      "slug": "operations-management",
+      "title": "Operations Management",
+      "image": "https://www.nsarcus.com/static/media/Operations-Management.b56dbbaae3f0a7827963.jpg",
+      "description": "We offer operation maintenance of batching plants and other concrete equipmentto produce value. With our years of gained reputation, state-of-the-art technology, and reliability, we are a known name in Delhi NCR for providing reliable on-site service and delivering quality construction equipment when you need it."
+    },
+    "equipment-on-hire": {
+      "slug": "equipment-on-hire",
+      "title": "Equipment on Hire",
+      "image": "https://www.nsarcus.com/static/media/Euopment-on-hire.6746a5db1ebbb5c775a0.jpg",
+      "description": "We provide various types of top-notch quality construction equipment on hire. Built by reputed companies like Schwing Stetter, they are well maintained to give optimal performance. Renting equipment is a wise call as it reduces high initial purchase costs, provides freedom from storage and maintenance, renders no depreciation costs, no space issues, and no downtime costs as they are only hired only for a particular project duration."
+    },
+    "plant-setup": {
+      "slug": "plant-setup",
+      "title": "Plant Set-up",
+      "image": "https://www.nsarcus.com/static/media/Plant-Set-up.86e5e4d774554ba6d5f4.jpg",
+      "description": "We have been instrumental in providing service to our clients for setting up their concrete manufacturing plants and operations anywhere across India and Europe, UAE, USA, South Korea, Malaysia, Singapore, Sri Lanka, Bangladesh, Bhutan, Myanmar, Nepal, Maldives, Mauritius, and Thailand. With our on-ground experience, we aid our clients in setting up the plants as per their requirements."
+    },
+    "arcus-tech": {
+      "slug": "arcus-tech",
+      "title": "Arcus Tech",
+      "image": "https://www.nsarcus.com/static/media/Arcus-Tech.38d568e57fbb844a0bc8.jpg",
+      "description": "In addition to the transportation of ready-to-use concrete, we also guide our clients through a resource optimisation approach to reduce operating expenses. We specialise in offering practical suggestions and guidance to consumers on building and construction practices, and the choice of the right construction materials. We assist our clients in defining and specifying quality standards, designing specific concrete mixes to meet challenging requirements, sourcing reliable supplies of good quality raw materials as well as providing on-site supervision of work."
+    }
+  }
+  
