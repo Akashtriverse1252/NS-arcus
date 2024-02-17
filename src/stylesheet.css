@@ -91,7 +91,6 @@ h6,
 }
 
 @-webkit-keyframes bounce {
-
   0%,
   100% {
     -webkit-transform: translateY(0);
@@ -103,7 +102,6 @@ h6,
 }
 
 @keyframes bounce {
-
   0%,
   100% {
     transform: translateY(0);
@@ -580,7 +578,6 @@ h3 {
   letter-spacing: 1px;
 }
 
-
 .productsbox {
   display: flex;
   justify-content: center;
@@ -977,8 +974,10 @@ h3 {
 }
 
 .slow-move-anticlockwise {
-  -webkit-animation: slow-move-anticlockwise 8s cubic-bezier(0.41, 0.17, 0.57, 0.79) infinite both;
-  animation: slow-move-anticlockwise 8s cubic-bezier(0.41, 0.17, 0.57, 0.79) infinite both;
+  -webkit-animation: slow-move-anticlockwise 8s
+    cubic-bezier(0.41, 0.17, 0.57, 0.79) infinite both;
+  animation: slow-move-anticlockwise 8s cubic-bezier(0.41, 0.17, 0.57, 0.79)
+    infinite both;
 }
 
 .tabmain {
@@ -1065,7 +1064,11 @@ div#notfound a.active {
 }
 
 .accordion .accordion-item.active .title:after,
-.accordion .accordion-item .sitemapbox .accordion-item.active button.title::after {
+.accordion
+  .accordion-item
+  .sitemapbox
+  .accordion-item.active
+  button.title::after {
   content: "\2212";
 }
 
@@ -1470,8 +1473,6 @@ div#notfound a.active {
   margin-bottom: 25px;
   margin: 0 auto;
 }
-
-
 
 .realtitle h3 {
   width: 65%;
@@ -2151,7 +2152,7 @@ div#notfound a.active {
 }
 
 .publicnotice {
-  font-family: 'Adobe Garamond Pro';
+  font-family: "Adobe Garamond Pro";
   text-align: center;
   font-size: 18px;
   line-height: 25px;
@@ -2335,18 +2336,18 @@ div#notfound a.active {
   font-weight: bold;
 }
 
-.premixx_tab_list ul[data-type='premixx_tabs'] {
+.premixx_tab_list ul[data-type="premixx_tabs"] {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-size: clamp(20px, 5vw, 26px);
   line-height: clamp(1.3, 2, 1.5);
   gap: 1rem;
   margin-bottom: 10px;
 }
 
-.premixx_tab_list ul[data-type='premixx_tabs'] li {
+.premixx_tab_list ul[data-type="premixx_tabs"] li {
   border-radius: 50px;
   text-align: center;
   float: left;
@@ -2444,25 +2445,25 @@ div#notfound a.active {
   margin: 50px 0;
 }
 
-.react-tabs[data-type='premixx_tabs_inner'] {
+.react-tabs[data-type="premixx_tabs_inner"] {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-.react-tabs[data-type='premixx_tabs_inner'] .react-tabs__tab-list {
+.react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list {
   width: 28%;
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-size: clamp(18px, 4vw, 22px);
   line-height: clamp(1.3, 2, 1.5);
   margin-bottom: auto;
   margin-right: 10px;
 }
 
-.react-tabs[data-type='premixx_tabs_inner'] .react-tabs__tab-list li {
+.react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-list li {
   width: 100%;
   padding-left: 30px;
   letter-spacing: 1.4px;
@@ -2479,7 +2480,7 @@ div#notfound a.active {
   align-items: center;
 }
 
-.react-tabs[data-type='premixx_tabs_inner'] .react-tabs__tab-panel {
+.react-tabs[data-type="premixx_tabs_inner"] .react-tabs__tab-panel {
   /* width: 70%; */
   /* background: rgb(241, 242, 242); */
   /* border-radius: 10px; */
@@ -2489,7 +2490,6 @@ div#notfound a.active {
   width: 70%;
   background: rgb(241, 242, 242);
   border-radius: 10px;
-
 }
 
 ul.react-tabs__tab-list li.react-tabs__tab--selected {
@@ -2545,7 +2545,7 @@ ul.react-tabs__tab-list li:hover {
 
 .premix_qoutes .container::after,
 .premixx_introductoin .container::after {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   width: 100%;
@@ -2556,7 +2556,6 @@ ul.react-tabs__tab-list li:hover {
   background-image: url(./images/Premixx_wave.png);
   background-repeat: no-repeat;
   background-position: center;
-
 }
 
 ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
@@ -2597,7 +2596,6 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   transform: translate(-50%, -50%);
   filter:  
 } */
-
 
 .premixx_banner_section::after {
   bottom: -20%;
@@ -2659,7 +2657,9 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   }
 }
 
-.premixx_features_list ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
+.premixx_features_list
+  ul.react-tabs__tab-list
+  li.react-tabs__tab--selected:hover {
   border: none;
 }
 
@@ -2676,7 +2676,6 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   height: auto;
   padding: 0;
   background-size: cover;
-
 }
 
 .premix_qoutes .dreamquotestn:before {
@@ -2815,7 +2814,6 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   width: 32%;
 }
 
-
 /* react accordion */
 .premixx_tab_list .accordion {
   display: none;
@@ -2840,7 +2838,7 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   letter-spacing: 1px;
   font-weight: 500;
   color: #fff;
-  font-family: 'Playfair Display';
+  font-family: "Playfair Display";
   transition: all 0.2s ease;
 }
 
@@ -2854,7 +2852,7 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
 
 .accordion__button:before {
   display: inline-block;
-  content: '';
+  content: "";
   height: 10px;
   width: 10px;
   border-bottom: 2px solid currentColor;
@@ -2867,8 +2865,8 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   rotate: -45deg;
 }
 
-.accordion__button[aria-expanded='true']::before,
-.accordion__button[aria-selected='true']::before {
+.accordion__button[aria-expanded="true"]::before,
+.accordion__button[aria-selected="true"]::before {
   transform: rotate(90deg);
   right: 20px;
 }
@@ -2944,7 +2942,6 @@ ul.react-tabs__tab-list li.react-tabs__tab--selected:hover {
   letter-spacing: 1px;
   text-transform: capitalize;
 }
-
 
 .landing_banner_connct {
   margin-top: 4.5rem;
@@ -3027,13 +3024,12 @@ button.enq_btn.btn10:hover span {
 
 .banner_reality .thank-you-popup {
   left: 50%;
-
 }
 
 .close-button {
   position: absolute;
-  top: 5PX;
-  right: 5PX;
+  top: 5px;
+  right: 5px;
   font-size: 35px;
   background-color: transparent;
   border: none;
@@ -3082,7 +3078,6 @@ span.error-message {
   letter-spacing: 1px;
 }
 
-
 .error-message::after {
   content: "";
   position: absolute;
@@ -3114,7 +3109,7 @@ span.error-message {
 .error-message[flow^="up"]::before,
 .error-message[flow^="up"]::after {
   left: 50%;
-  transform: translate(-50%, -.5em);
+  transform: translate(-50%, -0.5em);
 }
 
 .Home_banner_bulletains .slick-dots {
@@ -3140,12 +3135,12 @@ span.error-message {
   display: flex;
   justify-content: center;
   /* padding-left: 20%; */
-  padding-bottom: 20px; 
+  padding-bottom: 20px;
   text-transform: uppercase;
   color: #ffffff;
   letter-spacing: 1.5px;
   font-size: 18px;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-weight: 500;
 }
 
@@ -3161,5 +3156,49 @@ span.error-message {
 }
 
 .prd_logo img {
-  padding: 10px 40px
+  padding: 10px 40px;
+}
+.contactbox p span {
+  display: block;
+  margin-top: 10px;
+  color: #ffffff;
+  width: fit-content;
+}
+.contactbox p span a {
+  font-size: 16px;
+  color: #fff;
+  position: relative;
+  display: flex;
+  gap: 10px;
+}
+.contactbox p span article {
+  position: relative;
+}
+.contactbox p span article::before {
+  background: currentcolor;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: right center;
+  transform-origin: right center;
+  transition: -webkit-transform 0.5s cubic-bezier(0.33, 0, 0.13, 1) 0s;
+  transition: transform 0.5s cubic-bezier(0.33, 0, 0.13, 1) 0s;
+  transition: transform 0.5s cubic-bezier(0.33, 0, 0.13, 1) 0s,
+    -webkit-transform 0.5s cubic-bezier(0.33, 0, 0.13, 1) 0s;
+}
+.contactbox p span article:hover:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  -webkit-transform-origin: left center;
+  transform-origin: left center;
+}
+span.get_direction_footer img {
+  width: 25px;
+  height: auto;
+  object-fit: contain;
 }

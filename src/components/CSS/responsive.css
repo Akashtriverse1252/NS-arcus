@@ -309,7 +309,6 @@
 }
 
 @media (max-width: 1600px) {
-
   .products .title h3,
   .aboutus .title h3 {
     font-size: 19px;
@@ -709,6 +708,12 @@
 }
 
 @media (max-width: 1380px) {
+  .contactbox p span a {
+    font-size: 14px;
+  }
+  span.get_direction_footer img {
+    width: 20px;
+  }
   #premixx_banner_section {
     margin-top: 4.4rem;
   }
@@ -1748,7 +1753,6 @@
 }
 
 @media (max-width: 840px) {
-
   .products .title h3,
   .aboutus .title h3 {
     font-size: 12px;
@@ -1992,7 +1996,6 @@
   .header_strip {
     display: none;
   }
-
 
   .premixx_tab_list ul[data-type="premixx_tabs"] li {
     padding: 7px 25px;
@@ -2476,6 +2479,9 @@
 @media (max-width: 630px) {
   .prd_logo img {
     padding: 10px 30px;
+  }
+  .get_direction_footer{
+   margin: 8px auto 15px;
   }
 
   .banner_left_scn {
